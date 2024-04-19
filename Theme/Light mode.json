@@ -1,0 +1,1727 @@
+{
+  "Foreground": {
+    "Primary": {
+      "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Danger": {
+      "value": "{Colors.System Ramps.Reds.Red 500}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Warning": {
+      "value": "{Colors.System Ramps.Yellows.Yellow 500}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Good": {
+      "value": "{Colors.System Ramps.Greens.Green 600}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Informative": {
+      "value": "{Colors.System Ramps.Blues.Blue 600}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Grey 1": {
+      "value": "{Colors.System Ramps.Foreground Greys.Grey 9}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Grey 2": {
+      "value": "{Colors.System Ramps.Foreground Greys.Grey 8}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Grey 3": {
+      "value": "{Colors.System Ramps.Foreground Greys.Grey 7}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Grey 4": {
+      "value": "{Colors.System Ramps.Foreground Greys.Grey 6}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    }
+  },
+  "Background": {
+    "Primary": {
+      "value": "{Colors.System Ramps.Background Whites.White 1}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Danger": {
+      "value": "{Colors.System Ramps.Reds.Red 100}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Warning": {
+      "value": "{Colors.System Ramps.Yellows.Yellow 100}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Good": {
+      "value": "{Colors.System Ramps.Greens.Green 100}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Critical Warning": {
+      "value": "{Colors.System Ramps.Yellows.Yellow 500}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Critical Danger": {
+      "value": "{Colors.System Ramps.Reds.Red 500}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Informative": {
+      "value": "{Colors.System Ramps.Blues.Blue 100}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Grey 1": {
+      "value": "{Colors.System Ramps.Background Whites.White 2}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Grey 2": {
+      "value": "{Colors.System Ramps.Background Whites.White 3}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Grey 3": {
+      "value": "{Colors.System Ramps.Background Whites.White 4}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Grey 4": {
+      "value": "{Colors.System Ramps.Background Whites.White 5}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Grey 5": {
+      "value": "{Colors.System Ramps.Background Whites.White 6}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Grey 6": {
+      "value": "{Colors.System Ramps.Background Whites.White 7}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    }
+  },
+  "Interactive Content": {
+    "Buttons": {
+      "Primary Branded": {
+        "Fill Default": {
+          "value": "{Colors.Branded Ramps.LM.Primary Buttons.Branded Primary Default}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Fill On hover": {
+          "value": "{Colors.Branded Ramps.LM.Primary Buttons.Branded Primary Hover}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Fill Pressed": {
+          "value": "{Colors.Branded Ramps.LM.Primary Buttons.Branded Primary Pressed}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Text": {
+          "value": "{Colors.Branded Ramps.LM.Primary Buttons.Text Default}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Text On hover": {
+          "value": "{Colors.Branded Ramps.LM.Primary Buttons.Text Hover}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        }
+      },
+      "Primary Neutral": {
+        "Text": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Fill Default": {
+          "value": "{Colors.System Ramps.Foreground Greys.Black}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Fill On hover": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 8}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Fill Pressed": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 6}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Outline On hover": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Outline Pressed": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Text On hover": {
+          "value": "{Colors.System Ramps.Foreground Greys.White}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        }
+      },
+      "Secondary": {
+        "Text Default": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Fill Default": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Fill Pressed": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Fill On hover": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Outline Pressed": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 6}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Text On hover": {
+          "value": "{Colors.System Ramps.Foreground Greys.Black}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        }
+      },
+      "Destructive": {
+        "Text": {
+          "value": "{Colors.System Ramps.Foreground Greys.White}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Surface Default": {
+          "value": "{Colors.System Ramps.Reds.Red 500}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Surface On hover": {
+          "value": "{Colors.System Ramps.Reds.Red 600}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Surface Pressed": {
+          "value": "{Colors.System Ramps.Reds.Red 400}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        }
+      },
+      "Tertiary": {
+        "Text Default": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Fill Pressed": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Outline Default": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 5}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Fill On hover": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Outline On hover": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 6}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Outline Pressed": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 4}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Text On hover": {
+          "value": "{Colors.System Ramps.Foreground Greys.Black}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        }
+      },
+      "Ghost": {
+        "Text Default": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Fill On hover": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Fill Pressed": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Text On hover": {
+          "value": "{Colors.System Ramps.Foreground Greys.Black}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        }
+      }
+    },
+    "Lists": {
+      "Surface On hover": {
+        "value": "{Colors.System Ramps.Background Whites.White 5}",
+        "type": "color",
+        "parent": "Theme/Light mode",
+        "description": ""
+      },
+      "Surface While Active": {
+        "value": "{Colors.System Ramps.Blues.Blue 100}",
+        "type": "color",
+        "parent": "Theme/Light mode",
+        "description": ""
+      },
+      "Foreground While active": {
+        "value": "{Colors.System Ramps.Blues.Blue 400}",
+        "type": "color",
+        "parent": "Theme/Light mode",
+        "description": ""
+      }
+    },
+    "Text link": {
+      "Default blue": {
+        "value": "{Colors.System Ramps.Blues.Blue 600}",
+        "type": "color",
+        "parent": "Theme/Light mode",
+        "description": ""
+      },
+      "Pressed Pressed": {
+        "value": "{Colors.System Ramps.Blues.Blue 700}",
+        "type": "color",
+        "parent": "Theme/Light mode",
+        "description": ""
+      },
+      "On hover blue": {
+        "value": "{Colors.System Ramps.Blues.Blue 400}",
+        "type": "color",
+        "parent": "Theme/Light mode",
+        "description": ""
+      }
+    },
+    "Tooltips": {
+      "Foreground": {
+        "value": "{Colors.System Ramps.Foreground Greys.White}",
+        "type": "color",
+        "parent": "Theme/Light mode",
+        "description": ""
+      },
+      "Background": {
+        "value": "{Colors.System Ramps.Foreground Greys.Black}",
+        "type": "color",
+        "parent": "Theme/Light mode",
+        "description": ""
+      },
+      "Icon": {
+        "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
+        "type": "color",
+        "parent": "Theme/Light mode",
+        "description": ""
+      }
+    }
+  },
+  "Border": {
+    "In Focus": {
+      "value": "{Colors.System Ramps.Blues.Blue 600}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Base": {
+      "value": "{Colors.System Ramps.Foreground Greys.Grey 4}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Light base": {
+      "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    }
+  },
+  "Navigation": {
+    "Desktop": {
+      "Foreground": {
+        "Default": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.ForeG.Default}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.ForeG.Hover}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Badge Pressed": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.ForeG.Badge Pressed}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Transfer Button": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.ForeG.Transfer Button}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.ForeG.Pressed}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Badge Hover": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.ForeG.Badge Hover}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Transfer Button Hover": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.ForeG.Transfer Button Hover}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Transfer Button Pressed": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.ForeG.Transfer Button Pressed}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Give Feedback Pressed": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.ForeG.Give Feedback Pressed}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        }
+      },
+      "Background": {
+        "Title bar": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Title bar}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Title bar Button Hover": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Title bar Button Hover}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Sidebar": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Sidebar}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Sidebar Button Hover": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Sidebar Button Hover}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Transfer button": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Transfer Button Default}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Badge": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Badge Default}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Sidebar Button Pressed": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Sidebar Button Pressed}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Title bar Button Pressed": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Title bar Button Pressed}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Transfer button Hover": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Transfer Button Hover}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Transfer button Pressed": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Transfer Button Pressed}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Badge Hover": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Badge Hover}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Badge Pressed": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Badge Pressed}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        }
+      }
+    },
+    "Mobile": {
+      "Header": {
+        "Background": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Header.Background}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Text": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Header.Text}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Icon": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Header.Icon}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Outline Badge": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Header.Outline badge}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Fill Badge": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Header.Fill badge}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Text Badge": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Header.Text Badge}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Text Native": {
+          "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Header.Text Native}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        }
+      },
+      "Android": {
+        "Sub Tabs": {
+          "Foreground Default": {
+            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Android.Sub Tabs.Foreground Default}",
+            "type": "color",
+            "parent": "Theme/Light mode",
+            "description": ""
+          },
+          "Foreground Pressed": {
+            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Android.Sub Tabs.Foreground Pressed}",
+            "type": "color",
+            "parent": "Theme/Light mode",
+            "description": ""
+          }
+        },
+        "Bottom Bar": {
+          "Text Default": {
+            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Android.Bottom Bar.Text Default}",
+            "type": "color",
+            "parent": "Theme/Light mode",
+            "description": ""
+          },
+          "Text Pressed": {
+            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Android.Bottom Bar.Text Pressed}",
+            "type": "color",
+            "parent": "Theme/Light mode",
+            "description": ""
+          },
+          "Icon Pressed": {
+            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Android.Bottom Bar.Icon Pressed}",
+            "type": "color",
+            "parent": "Theme/Light mode",
+            "description": ""
+          },
+          "Backgorund Button Pressed": {
+            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Android.Bottom Bar.Background Button Pressed}",
+            "type": "color",
+            "parent": "Theme/Light mode",
+            "description": ""
+          },
+          "Background": {
+            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Android.Bottom Bar.Background}",
+            "type": "color",
+            "parent": "Theme/Light mode",
+            "description": ""
+          },
+          "Divider": {
+            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Android.Bottom Bar.Divider}",
+            "type": "color",
+            "parent": "Theme/Light mode",
+            "description": ""
+          }
+        }
+      },
+      "iOS": {
+        "Bottom Bar": {
+          "Text Default": {
+            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Bottom Bar.Text Default}",
+            "type": "color",
+            "parent": "Theme/Light mode",
+            "description": ""
+          },
+          "Text Pressed": {
+            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Bottom Bar.Text Pressed}",
+            "type": "color",
+            "parent": "Theme/Light mode",
+            "description": ""
+          },
+          "Icon Pressed": {
+            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Bottom Bar.Icon Pressed}",
+            "type": "color",
+            "parent": "Theme/Light mode",
+            "description": ""
+          },
+          "Icon Default": {
+            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Bottom Bar.Icon Default}",
+            "type": "color",
+            "parent": "Theme/Light mode",
+            "description": ""
+          },
+          "Background": {
+            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Bottom Bar.Background}",
+            "type": "color",
+            "parent": "Theme/Light mode",
+            "description": ""
+          },
+          "Divider": {
+            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Bottom Bar.Divider}",
+            "type": "color",
+            "parent": "Theme/Light mode",
+            "description": ""
+          }
+        },
+        "Sub Tabs": {
+          "Background": {
+            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Sub Tabs.Background}",
+            "type": "color",
+            "parent": "Theme/Light mode",
+            "description": ""
+          },
+          "Text Default": {
+            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Sub Tabs.Text Default}",
+            "type": "color",
+            "parent": "Theme/Light mode",
+            "description": ""
+          },
+          "Text Pressed": {
+            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Sub Tabs.Text Pressed}",
+            "type": "color",
+            "parent": "Theme/Light mode",
+            "description": ""
+          },
+          "Outline Tab Button Pressed": {
+            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Sub Tabs.Outline Tab Button Pressed}",
+            "type": "color",
+            "parent": "Theme/Light mode",
+            "description": ""
+          },
+          "Fill Tab Button Pressed": {
+            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Sub Tabs.Fill Tab Button Pressed}",
+            "type": "color",
+            "parent": "Theme/Light mode",
+            "description": ""
+          },
+          "Divider": {
+            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Sub Tabs.Divider}",
+            "type": "color",
+            "parent": "Theme/Light mode",
+            "description": ""
+          }
+        }
+      }
+    }
+  },
+  "Elements": {
+    "Context menu": {
+      "value": "{Colors.System Ramps.Background Whites.White 1}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Folders and File icons": {
+      "value": "{Colors.Branded Ramps.LM.Elements.Folders}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Modal": {
+      "value": "{Colors.System Ramps.Background Whites.White 1}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Divider": {
+      "value": "{Colors.System Ramps.Foreground Greys.Grey 4}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Logo": {
+      "value": "{Colors.Branded Ramps.LM.Elements.Logo}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    }
+  },
+  "Generic": {
+    "Always White": {
+      "value": "{Colors.System Ramps.Foreground Greys.White}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Always Black": {
+      "value": "{Colors.System Ramps.Foreground Greys.Black}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Auto Black to White": {
+      "value": "{Colors.System Ramps.Foreground Greys.Black}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Auto White to Black": {
+      "value": "{Colors.System Ramps.Foreground Greys.White}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    },
+    "Auto Grey to black": {
+      "value": "{Colors.System Ramps.Background Whites.White 4}",
+      "type": "color",
+      "parent": "Theme/Light mode",
+      "description": ""
+    }
+  },
+  "Jotta ONLY elements": {
+    "Purple": {
+      "1": {
+        "value": "#343056",
+        "type": "color",
+        "parent": "Theme/Light mode",
+        "description": ""
+      },
+      "2": {
+        "value": "#3e3b6d",
+        "type": "color",
+        "parent": "Theme/Light mode",
+        "description": ""
+      },
+      "5": {
+        "value": "#aa95f4",
+        "type": "color",
+        "parent": "Theme/Light mode",
+        "description": ""
+      },
+      "6": {
+        "value": "#cabcfb",
+        "type": "color",
+        "parent": "Theme/Light mode",
+        "description": ""
+      },
+      "4 Dark mode": {
+        "value": "#8f72f2",
+        "type": "color",
+        "parent": "Theme/Light mode",
+        "description": ""
+      },
+      "3 Main": {
+        "value": "#7d5fe6",
+        "type": "color",
+        "parent": "Theme/Light mode",
+        "description": ""
+      }
+    },
+    "BrownGreen": {
+      "1": {
+        "value": "#6a6d54",
+        "type": "color",
+        "parent": "Theme/Light mode",
+        "description": ""
+      },
+      "2": {
+        "value": "#bec2ae",
+        "type": "color",
+        "parent": "Theme/Light mode",
+        "description": ""
+      },
+      "3": {
+        "value": "#e8ebde",
+        "type": "color",
+        "parent": "Theme/Light mode",
+        "description": ""
+      }
+    },
+    "Orange": {
+      "2": {
+        "value": "#c86a28",
+        "type": "color",
+        "parent": "Theme/Light mode",
+        "description": ""
+      },
+      "1 Links": {
+        "value": "#ac470f",
+        "type": "color",
+        "parent": "Theme/Light mode",
+        "description": ""
+      }
+    },
+    "BlackWhite": {
+      "Black": {
+        "value": "#252521",
+        "type": "color",
+        "parent": "Theme/Light mode",
+        "description": ""
+      },
+      "White": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "Theme/Light mode",
+        "description": ""
+      }
+    }
+  },
+  "fontFamilies": {
+    "inter": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "miletus-grotesk": {
+      "value": "Miletus Grotesk",
+      "type": "fontFamilies"
+    }
+  },
+  "lineHeights": {
+    "0": {
+      "value": "72",
+      "type": "lineHeights"
+    },
+    "1": {
+      "value": "52",
+      "type": "lineHeights"
+    },
+    "2": {
+      "value": "32",
+      "type": "lineHeights"
+    },
+    "3": {
+      "value": "28",
+      "type": "lineHeights"
+    },
+    "4": {
+      "value": "24",
+      "type": "lineHeights"
+    },
+    "5": {
+      "value": "20",
+      "type": "lineHeights"
+    },
+    "6": {
+      "value": "16",
+      "type": "lineHeights"
+    }
+  },
+  "fontWeights": {
+    "inter-0": {
+      "value": "Extra Bold",
+      "type": "fontWeights"
+    },
+    "inter-1": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "inter-2": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "inter-3": {
+      "value": "Black",
+      "type": "fontWeights"
+    },
+    "miletus-grotesk-4": {
+      "value": "Black",
+      "type": "fontWeights"
+    },
+    "miletus-grotesk-5": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "miletus-grotesk-6": {
+      "value": "Bold",
+      "type": "fontWeights"
+    }
+  },
+  "fontSize": {
+    "0": {
+      "value": "14",
+      "type": "fontSizes"
+    },
+    "1": {
+      "value": "16",
+      "type": "fontSizes"
+    },
+    "2": {
+      "value": "20",
+      "type": "fontSizes"
+    },
+    "3": {
+      "value": "24",
+      "type": "fontSizes"
+    },
+    "4": {
+      "value": "28",
+      "type": "fontSizes"
+    },
+    "5": {
+      "value": "32",
+      "type": "fontSizes"
+    },
+    "6": {
+      "value": "48",
+      "type": "fontSizes"
+    },
+    "7": {
+      "value": "64",
+      "type": "fontSizes"
+    }
+  },
+  "letterSpacing": {
+    "0": {
+      "value": "0%",
+      "type": "letterSpacing"
+    }
+  },
+  "paragraphSpacing": {
+    "0": {
+      "value": "0",
+      "type": "paragraphSpacing"
+    }
+  },
+  "Patform Type": {
+    "Display": {
+      "D1": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-0}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.7}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "For banners/graphics/Ads"
+      },
+      "D2": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-0}",
+          "lineHeight": "{lineHeights.1}",
+          "fontSize": "{fontSize.6}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "For banners/graphics/Ads"
+      }
+    },
+    "Title": {
+      "Large": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-1}",
+          "lineHeight": "{lineHeights.2}",
+          "fontSize": "{fontSize.5}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "For any title. Never on multiple lines."
+      },
+      "Large Bold": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-2}",
+          "lineHeight": "{lineHeights.2}",
+          "fontSize": "{fontSize.5}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "For any title. Never on multiple lines."
+      },
+      "Medium": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-1}",
+          "lineHeight": "{lineHeights.3}",
+          "fontSize": "{fontSize.4}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "For any title. Never on multiple lines."
+      },
+      "Medium Bold": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-2}",
+          "lineHeight": "{lineHeights.3}",
+          "fontSize": "{fontSize.4}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "For any title. Never on multiple lines."
+      },
+      "Small": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-1}",
+          "lineHeight": "{lineHeights.4}",
+          "fontSize": "{fontSize.3}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "For any title. Never on multiple lines."
+      },
+      "Small Bold": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-2}",
+          "lineHeight": "{lineHeights.4}",
+          "fontSize": "{fontSize.3}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "For any title. Never on multiple lines."
+      }
+    },
+    "Heading": {
+      "H1": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-2}",
+          "lineHeight": "{lineHeights.2}",
+          "fontSize": "{fontSize.3}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "For any heading or important information that might me more than one line"
+      },
+      "H2": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-2}",
+          "lineHeight": "{lineHeights.3}",
+          "fontSize": "{fontSize.2}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "For any heading or important information that might me more than one line"
+      },
+      "H3": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-2}",
+          "lineHeight": "{lineHeights.4}",
+          "fontSize": "{fontSize.1}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "For any heading or important information that might me more than one line"
+      },
+      "H4": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-2}",
+          "lineHeight": "{lineHeights.4}",
+          "fontSize": "{fontSize.0}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "For any heading or important information that might me more than one line"
+      }
+    },
+    "Body": {
+      "Large Long": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-1}",
+          "lineHeight": "{lineHeights.3}",
+          "fontSize": "{fontSize.2}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "For any body text of any length."
+      },
+      "Large Short": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-1}",
+          "lineHeight": "{lineHeights.5}",
+          "fontSize": "{fontSize.2}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "For any body text of any length."
+      },
+      "Medium Long": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-1}",
+          "lineHeight": "{lineHeights.4}",
+          "fontSize": "{fontSize.1}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "For any body text of any length."
+      },
+      "Medium Short": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-1}",
+          "lineHeight": "{lineHeights.6}",
+          "fontSize": "{fontSize.1}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "For any body text of any length."
+      },
+      "Small Long": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-1}",
+          "lineHeight": "{lineHeights.4}",
+          "fontSize": "{fontSize.0}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "For any body text of any length."
+      },
+      "Small Short": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-1}",
+          "lineHeight": "{lineHeights.6}",
+          "fontSize": "{fontSize.0}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "For any body text of any length."
+      }
+    },
+    "Label": {
+      "Large": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-2}",
+          "lineHeight": "{lineHeights.5}",
+          "fontSize": "{fontSize.2}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Words or short sentence - never on multiple lines."
+      },
+      "Medium": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-2}",
+          "lineHeight": "{lineHeights.6}",
+          "fontSize": "{fontSize.1}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Words or short sentence - never on multiple lines."
+      },
+      "Medium Fat": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-3}",
+          "lineHeight": "{lineHeights.6}",
+          "fontSize": "{fontSize.1}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "Small": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-2}",
+          "lineHeight": "{lineHeights.6}",
+          "fontSize": "{fontSize.0}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Words or short sentence - never on multiple lines."
+      }
+    },
+    "Link": {
+      "Medium": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-1}",
+          "lineHeight": "{lineHeights.6}",
+          "fontSize": "{fontSize.1}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.underline}"
+        },
+        "type": "typography",
+        "description": "Any clickable link. Is exempt from the 48x48 clickable surface rule"
+      },
+      "Medium Bold": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-2}",
+          "lineHeight": "{lineHeights.6}",
+          "fontSize": "{fontSize.1}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.underline}"
+        },
+        "type": "typography",
+        "description": "Any clickable link. Is exempt from the 48x48 clickable surface rule"
+      },
+      "Small": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-1}",
+          "lineHeight": "{lineHeights.6}",
+          "fontSize": "{fontSize.0}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.underline}"
+        },
+        "type": "typography",
+        "description": "Any clickable link. Is exempt from the 48x48 clickable surface rule"
+      },
+      "Small Bold": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-2}",
+          "lineHeight": "{lineHeights.6}",
+          "fontSize": "{fontSize.0}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.underline}"
+        },
+        "type": "typography",
+        "description": "Any clickable link. Is exempt from the 48x48 clickable surface rule"
+      }
+    }
+  },
+  "Branding Type": {
+    "Display": {
+      "D1": {
+        "value": {
+          "fontFamily": "{fontFamilies.miletus-grotesk}",
+          "fontWeight": "{fontWeights.miletus-grotesk-4}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.7}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "D2": {
+        "value": {
+          "fontFamily": "{fontFamilies.miletus-grotesk}",
+          "fontWeight": "{fontWeights.miletus-grotesk-4}",
+          "lineHeight": "{lineHeights.1}",
+          "fontSize": "{fontSize.6}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      }
+    },
+    "Title": {
+      "Large": {
+        "value": {
+          "fontFamily": "{fontFamilies.miletus-grotesk}",
+          "fontWeight": "{fontWeights.miletus-grotesk-5}",
+          "lineHeight": "{lineHeights.2}",
+          "fontSize": "{fontSize.5}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "Large Bold": {
+        "value": {
+          "fontFamily": "{fontFamilies.miletus-grotesk}",
+          "fontWeight": "{fontWeights.miletus-grotesk-6}",
+          "lineHeight": "{lineHeights.2}",
+          "fontSize": "{fontSize.5}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "Medium": {
+        "value": {
+          "fontFamily": "{fontFamilies.miletus-grotesk}",
+          "fontWeight": "{fontWeights.miletus-grotesk-5}",
+          "lineHeight": "{lineHeights.3}",
+          "fontSize": "{fontSize.4}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "Medium Bold": {
+        "value": {
+          "fontFamily": "{fontFamilies.miletus-grotesk}",
+          "fontWeight": "{fontWeights.miletus-grotesk-6}",
+          "lineHeight": "{lineHeights.3}",
+          "fontSize": "{fontSize.4}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "Medium Fat": {
+        "value": {
+          "fontFamily": "{fontFamilies.miletus-grotesk}",
+          "fontWeight": "{fontWeights.miletus-grotesk-4}",
+          "lineHeight": "{lineHeights.3}",
+          "fontSize": "{fontSize.4}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "Small": {
+        "value": {
+          "fontFamily": "{fontFamilies.miletus-grotesk}",
+          "fontWeight": "{fontWeights.miletus-grotesk-5}",
+          "lineHeight": "{lineHeights.4}",
+          "fontSize": "{fontSize.3}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "Large Fat": {
+        "value": {
+          "fontFamily": "{fontFamilies.miletus-grotesk}",
+          "fontWeight": "{fontWeights.miletus-grotesk-4}",
+          "lineHeight": "{lineHeights.2}",
+          "fontSize": "{fontSize.5}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "Small Bold": {
+        "value": {
+          "fontFamily": "{fontFamilies.miletus-grotesk}",
+          "fontWeight": "{fontWeights.miletus-grotesk-6}",
+          "lineHeight": "{lineHeights.4}",
+          "fontSize": "{fontSize.3}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "Small Fat": {
+        "value": {
+          "fontFamily": "{fontFamilies.miletus-grotesk}",
+          "fontWeight": "{fontWeights.miletus-grotesk-4}",
+          "lineHeight": "{lineHeights.4}",
+          "fontSize": "{fontSize.3}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      }
+    },
+    "Heading": {
+      "H1": {
+        "value": {
+          "fontFamily": "{fontFamilies.miletus-grotesk}",
+          "fontWeight": "{fontWeights.miletus-grotesk-6}",
+          "lineHeight": "{lineHeights.2}",
+          "fontSize": "{fontSize.3}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "H1 Fat": {
+        "value": {
+          "fontFamily": "{fontFamilies.miletus-grotesk}",
+          "fontWeight": "{fontWeights.miletus-grotesk-4}",
+          "lineHeight": "{lineHeights.2}",
+          "fontSize": "{fontSize.3}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "H2": {
+        "value": {
+          "fontFamily": "{fontFamilies.miletus-grotesk}",
+          "fontWeight": "{fontWeights.miletus-grotesk-6}",
+          "lineHeight": "{lineHeights.3}",
+          "fontSize": "{fontSize.2}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "H2 Fat": {
+        "value": {
+          "fontFamily": "{fontFamilies.miletus-grotesk}",
+          "fontWeight": "{fontWeights.miletus-grotesk-4}",
+          "lineHeight": "{lineHeights.3}",
+          "fontSize": "{fontSize.2}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "H3": {
+        "value": {
+          "fontFamily": "{fontFamilies.miletus-grotesk}",
+          "fontWeight": "{fontWeights.miletus-grotesk-6}",
+          "lineHeight": "{lineHeights.4}",
+          "fontSize": "{fontSize.1}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      }
+    },
+    "Label": {
+      "Large": {
+        "value": {
+          "fontFamily": "{fontFamilies.miletus-grotesk}",
+          "fontWeight": "{fontWeights.miletus-grotesk-6}",
+          "lineHeight": "{lineHeights.5}",
+          "fontSize": "{fontSize.2}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "Medium": {
+        "value": {
+          "fontFamily": "{fontFamilies.miletus-grotesk}",
+          "fontWeight": "{fontWeights.miletus-grotesk-6}",
+          "lineHeight": "{lineHeights.6}",
+          "fontSize": "{fontSize.1}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "Medium fat": {
+        "value": {
+          "fontFamily": "{fontFamilies.miletus-grotesk}",
+          "fontWeight": "{fontWeights.miletus-grotesk-4}",
+          "lineHeight": "{lineHeights.6}",
+          "fontSize": "{fontSize.1}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "Small": {
+        "value": {
+          "fontFamily": "{fontFamilies.miletus-grotesk}",
+          "fontWeight": "{fontWeights.miletus-grotesk-6}",
+          "lineHeight": "{lineHeights.6}",
+          "fontSize": "{fontSize.0}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      }
+    }
+  },
+  "textCase": {
+    "none": {
+      "value": "none",
+      "type": "textCase"
+    }
+  },
+  "textDecoration": {
+    "none": {
+      "value": "none",
+      "type": "textDecoration"
+    },
+    "underline": {
+      "value": "underline",
+      "type": "textDecoration"
+    }
+  },
+  "paragraphIndent": {
+    "0": {
+      "value": "0px",
+      "type": "dimension"
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "Spacing": {
+    "None": {
+      "value": "{Size or Measurements.none}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "Very tight": {
+      "value": "{Size or Measurements.,25 rem - 4px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "Tight": {
+      "value": "{Size or Measurements.,50 rem - 8px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "Default": {
+      "value": "{Size or Measurements.,75 rem - 12px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "Relaxed": {
+      "value": "{Size or Measurements.1 rem - 16px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "Very Relaxed": {
+      "value": "{Size or Measurements.1,25 rem - 20px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "Loose": {
+      "value": "{Size or Measurements.1,5 rem - 24px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    }
+  },
+  "Corner Radius": {
+    "none": {
+      "value": "{Size or Measurements.none}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "xs": {
+      "value": "{Size or Measurements.,25 rem - 4px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "sm": {
+      "value": "{Size or Measurements.,50 rem - 8px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "default": {
+      "value": "{Size or Measurements.,75 rem - 12px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "md": {
+      "value": "{Size or Measurements.1 rem - 16px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "lg": {
+      "value": "{Size or Measurements.1,25 rem - 20px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "xl": {
+      "value": "{Size or Measurements.1,5 rem - 24px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "round": {
+      "value": "{Size or Measurements.22,5 rem - 360px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    }
+  },
+  "Sizing": {
+    "none": {
+      "value": "{Size or Measurements.none}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    ",25 rem": {
+      "value": "{Size or Measurements.,25 rem - 4px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    ",50 rem": {
+      "value": "{Size or Measurements.,50 rem - 8px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    ",75 rem": {
+      "value": "{Size or Measurements.,75 rem - 12px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "1 rem": {
+      "value": "{Size or Measurements.1 rem - 16px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "1,25 rem": {
+      "value": "{Size or Measurements.1,25 rem - 20px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "1,5 rem": {
+      "value": "{Size or Measurements.1,5 rem - 24px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "2 rem": {
+      "value": "{Size or Measurements.2 rem - 32px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "2,5 rem": {
+      "value": "{Size or Measurements.2,5 rem - 40px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "3 rem": {
+      "value": "{Size or Measurements.3 rem - 48px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "4 rem": {
+      "value": "{Size or Measurements.4 rem - 64px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "5 rem": {
+      "value": "{Size or Measurements.5 rem - 80px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "6 rem": {
+      "value": "{Size or Measurements.6 rem - 96px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "8 rem": {
+      "value": "{Size or Measurements.8 rem - 124px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "11,25": {
+      "value": "{Size or Measurements.11,25 rem - 180px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    },
+    "22,5 rem": {
+      "value": "{Size or Measurements.22,5 rem - 360px}",
+      "type": "dimension",
+      "parent": "Web break points/Small",
+      "description": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "tokenSetOrder": [
+    "global",
+    "Theme/Light mode",
+    "Theme/Dark mode",
+    "Brand/Jottacloud",
+    "Brand/Elkjop",
+    "Brand/Mediamarkt",
+    "Brand/Telia",
+    "Brand/Tele 2",
+    "Web break points/Small",
+    "Web break points/Medium",
+    "Web break points/Large",
+    "Web break points/X Large"
+  ]
+}
