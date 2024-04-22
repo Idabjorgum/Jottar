@@ -2,10 +2,52 @@
   {
     "id": "e766e4702cfd2ec25a33616f0e77085ceceebffa",
     "name": "Light",
-    "$figmaStyleReferences": {},
+    "$figmaStyleReferences": {
+      "Patform Type.Display.D1": "S:d64f4079eee7f276361ef464ff1fcd1346394bd7,",
+      "Patform Type.Display.D2": "S:ed69f81eaae89918c1083b7d0e7ae2643c3ee0fa,",
+      "Patform Type.Title.Large": "S:fa279776cef3fc108d2681861570bbc0e2044690,",
+      "Patform Type.Title.Large Bold": "S:6e1a4e60458e74753a052d93497e5d60bcd79f49,",
+      "Patform Type.Title.Medium": "S:c00cefd708de12096ec44f70b6ca85467855da78,",
+      "Patform Type.Title.Medium Bold": "S:fd464da1fbc40c3204f54b9c93c11ab7061c5576,",
+      "Patform Type.Title.Small": "S:623486a908d1d3c60442527ca5edfac6f180b590,",
+      "Patform Type.Title.Small Bold": "S:7580f53d8237bbf292769afcf2238b529865083b,",
+      "Patform Type.Heading.H1": "S:74c640a11755e5a8095e18dbc2d521aa4fad2ed9,",
+      "Patform Type.Heading.H2": "S:d9b8a2346c246a996a0e0f51e50aa2c7ba1120fc,",
+      "Patform Type.Heading.H3": "S:2923275efcbb502ab2c6c5a33ebc7e7f627c71cd,",
+      "Patform Type.Heading.H4": "S:52a62ec22c5ca63636bd9181d68493477fba5278,",
+      "Patform Type.Body.Large Long": "S:3e03033e849913dd220b320fdd9625865cd3d6a1,",
+      "Patform Type.Body.Large Short": "S:bf51b1063d97d3e85e8fe2497a1bcc5a2997ff40,",
+      "Patform Type.Body.Medium Long": "S:e915e014aa42c3d86c8e37b51124b699efe85d3c,",
+      "Patform Type.Body.Medium Short": "S:8a8b07de5e03bf7e214e603566c0dbaf32061a7b,",
+      "Patform Type.Body.Small Long": "S:725ed9433a6d688218bf10dd769eafd37a67c246,",
+      "Patform Type.Body.Small Short": "S:bba421ef6ad8c2f2b181ed4e22cffd426b7e0a7a,",
+      "Patform Type.Label.Large": "S:d422f2cd323d256b0fe7117144374d2f46aa9c50,",
+      "Patform Type.Label.Medium": "S:c246305e327bb5c7662987ff9403bdd965331fc6,",
+      "Patform Type.Label.Medium Fat": "S:463001d5e9d23d13dea1891ade2bbb0d564ba6a2,",
+      "Patform Type.Label.Small": "S:7660f3fba0da0d030c46c1a5fe2c8fb47245cda1,",
+      "Patform Type.Link.Medium": "S:9a1d4490f0f07bfdc59f52bd9a1bb5dc95b1eb3d,",
+      "Patform Type.Link.Medium Bold": "S:aee5509dde75d66a711fbf7894198a23a1cc0d3f,",
+      "Patform Type.Link.Small": "S:e1f46d5d32c365a2c82f5a90af6e84543decb2cc,",
+      "Patform Type.Link.Small Bold": "S:f746a1a1a2f9da5003b6e31ff0f570c74201646b,",
+      "Branding Type.Display.D1": "S:978bc343a2adc5c3bcda26e34ecac3af1539d503,",
+      "Branding Type.Display.D2": "S:533579d88738ce63c62bc5976174a94b2312a6bb,",
+      "Branding Type.Title.Large": "S:8db0d46279910c04ab5b9bc565b04a4b587f0676,",
+      "Branding Type.Title.Large Bold": "S:dd08dca55b023733e96773fcfda4560dd0a06e17,",
+      "Branding Type.Title.Medium": "S:f6bfdc8812ccec3d80f905bb7a80420d35475e83,",
+      "Branding Type.Title.Medium Bold": "S:5691b72aa007fb93560ef3145bdd93d1e6ab7c8a,",
+      "Branding Type.Title.Small": "S:343313c8fc274469b3c1ecdd2d9355674f695013,",
+      "Branding Type.Title.Small Bold": "S:22fe6b909a8a60c035ebc327f46f710edeafb784,",
+      "Branding Type.Heading.H1": "S:a25328fe65fd5d51ec1293ca6aec044b9f333691,",
+      "Branding Type.Heading.H2": "S:51bf32d6b18ce6160275aef0d48805084f5af1fa,",
+      "Branding Type.Heading.H3": "S:df905c6b5c0de13b0d8a919f2bb99dbb03e2c608,",
+      "Branding Type.Label.Large": "S:1c310006517cf131c8a6b006a84f4400b745e32a,",
+      "Branding Type.Label.Medium": "S:68d61fca39e0ff6424c694c5586e601540703e60,",
+      "Branding Type.Label.Small": "S:671f08c546b742f635908136df5bfb8fee614411,",
+      "Branding Type.Heading.H4": "S:938f503bc89a2edfbd4dd86839abf62c79227362,",
+      "Branding Type.Label.Medium fat": "S:923d351c199a22ebeed16f7656afa7b59f640b6a,"
+    },
     "selectedTokenSets": {
-      "Theme/Light": "enabled",
-      "Theme/Dark": "disabled"
+      "Theme/Light": "enabled"
     },
     "group": "Theme",
     "$figmaCollectionId": "VariableCollectionId:7765:9310",
@@ -157,7 +199,6 @@
     "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Theme/Light": "disabled",
       "Theme/Dark": "enabled"
     },
     "group": "Theme",
@@ -852,9 +893,7 @@
     "name": "Telia",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Brand/Telia": "enabled",
-      "Theme/Light": "disabled",
-      "Theme/Dark": "disabled"
+      "Brand/Telia": "enabled"
     },
     "group": "Brand",
     "$figmaCollectionId": "VariableCollectionId:7765:9450",
@@ -1035,9 +1074,7 @@
     "name": "Tele 2",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Brand/Tele 2": "enabled",
-      "Theme/Light": "disabled",
-      "Theme/Dark": "disabled"
+      "Brand/Tele 2": "enabled"
     },
     "group": "Brand"
   }
