@@ -49,7 +49,6 @@
     "selectedTokenSets": {
       "Theme/Light": "enabled"
     },
-    "group": "Theme",
     "$figmaCollectionId": "VariableCollectionId:7765:9310",
     "$figmaModeId": "7765:0",
     "$figmaVariableReferences": {
@@ -75,11 +74,6 @@
       "Background.Grey 4": "4b646c0cc5dcb14ceeb6fddafa02ef8cf87de622",
       "Background.Grey 5": "d8448cdd760c7f00b2d4a05207be8db3888d7a35",
       "Background.Grey 6": "c9cd03047107f269cfcaa7b0badcfca0bccd6c34",
-      "Interactive Content.Buttons.Primary Branded.Fill Default": "50e47480007583401a66c62c4bb3843af675bf58",
-      "Interactive Content.Buttons.Primary Branded.Fill On hover": "c6a8b010fef6a9048e3788b5a7998dbc0bff3177",
-      "Interactive Content.Buttons.Primary Branded.Fill Pressed": "16b8c7947a998b8978b059abbcb5ee3c7f9ff662",
-      "Interactive Content.Buttons.Primary Branded.Text": "83f40125bbf079dd1776cbf608ee775c42eab182",
-      "Interactive Content.Buttons.Primary Branded.Text On hover": "3c290f6027b2add5291d8fb318738b96abff66fe",
       "Interactive Content.Buttons.Primary Neutral.Text": "590ef6ba870b3afaf6deeec08820fd91db4848e6",
       "Interactive Content.Buttons.Primary Neutral.Fill Default": "1d7fe7727c165164d6fc7c2d32c4f891f23954d1",
       "Interactive Content.Buttons.Primary Neutral.Fill On hover": "1169f96f36ca8412d8d7dd78065e6c53454c2d39",
@@ -191,8 +185,14 @@
       "Jotta ONLY elements.Orange.1 Links": "5368d1b2e06da5e54cb54b91692ee1cb56f9b3af",
       "Jotta ONLY elements.BlackWhite.Black": "bef28b2194fb6c7af4a77bff5d10cce393d7278e",
       "Jotta ONLY elements.BlackWhite.White": "df41bc4e53addf1cea0919f218344ac2bc8654a2",
-      "paragraphIndent.0": "778bf51ee23ae7b27c238bdbe494218fa32c7e96"
-    }
+      "paragraphIndent.0": "778bf51ee23ae7b27c238bdbe494218fa32c7e96",
+      "Interactive Content.Buttons.Primary.Fill Default": "50e47480007583401a66c62c4bb3843af675bf58",
+      "Interactive Content.Buttons.Primary.Fill On hover": "c6a8b010fef6a9048e3788b5a7998dbc0bff3177",
+      "Interactive Content.Buttons.Primary.Fill Pressed": "16b8c7947a998b8978b059abbcb5ee3c7f9ff662",
+      "Interactive Content.Buttons.Primary.Text": "83f40125bbf079dd1776cbf608ee775c42eab182",
+      "Interactive Content.Buttons.Primary.Text On hover": "3c290f6027b2add5291d8fb318738b96abff66fe"
+    },
+    "group": "Theme"
   },
   {
     "id": "16201e643d2fc9917167c7e51788a9d9a0e62027",
@@ -201,7 +201,6 @@
     "selectedTokenSets": {
       "Theme/Dark": "enabled"
     },
-    "group": "Theme",
     "$figmaCollectionId": "VariableCollectionId:7765:9310",
     "$figmaModeId": "7765:1",
     "$figmaVariableReferences": {
@@ -227,11 +226,6 @@
       "Background.Grey 4": "4b646c0cc5dcb14ceeb6fddafa02ef8cf87de622",
       "Background.Grey 5": "d8448cdd760c7f00b2d4a05207be8db3888d7a35",
       "Background.Grey 6": "c9cd03047107f269cfcaa7b0badcfca0bccd6c34",
-      "Interactive Content.Buttons.Primary Branded.Fill Default": "50e47480007583401a66c62c4bb3843af675bf58",
-      "Interactive Content.Buttons.Primary Branded.Fill On hover": "c6a8b010fef6a9048e3788b5a7998dbc0bff3177",
-      "Interactive Content.Buttons.Primary Branded.Fill Pressed": "16b8c7947a998b8978b059abbcb5ee3c7f9ff662",
-      "Interactive Content.Buttons.Primary Branded.Text": "83f40125bbf079dd1776cbf608ee775c42eab182",
-      "Interactive Content.Buttons.Primary Branded.Text On hover": "3c290f6027b2add5291d8fb318738b96abff66fe",
       "Interactive Content.Buttons.Primary Neutral.Text": "590ef6ba870b3afaf6deeec08820fd91db4848e6",
       "Interactive Content.Buttons.Primary Neutral.Fill Default": "1d7fe7727c165164d6fc7c2d32c4f891f23954d1",
       "Interactive Content.Buttons.Primary Neutral.Fill On hover": "1169f96f36ca8412d8d7dd78065e6c53454c2d39",
@@ -342,8 +336,14 @@
       "Jotta ONLY elements.Orange.2": "bdffec7ed91a167673935edb13595440b8361afe",
       "Jotta ONLY elements.Orange.1 Links": "5368d1b2e06da5e54cb54b91692ee1cb56f9b3af",
       "Jotta ONLY elements.BlackWhite.Black": "bef28b2194fb6c7af4a77bff5d10cce393d7278e",
-      "Jotta ONLY elements.BlackWhite.White": "df41bc4e53addf1cea0919f218344ac2bc8654a2"
-    }
+      "Jotta ONLY elements.BlackWhite.White": "df41bc4e53addf1cea0919f218344ac2bc8654a2",
+      "Interactive Content.Buttons.Primary.Fill Default": "50e47480007583401a66c62c4bb3843af675bf58",
+      "Interactive Content.Buttons.Primary.Fill On hover": "c6a8b010fef6a9048e3788b5a7998dbc0bff3177",
+      "Interactive Content.Buttons.Primary.Fill Pressed": "16b8c7947a998b8978b059abbcb5ee3c7f9ff662",
+      "Interactive Content.Buttons.Primary.Text": "83f40125bbf079dd1776cbf608ee775c42eab182",
+      "Interactive Content.Buttons.Primary.Text On hover": "3c290f6027b2add5291d8fb318738b96abff66fe"
+    },
+    "group": "Theme"
   },
   {
     "id": "c2763978206da3b34057dd3d061f2c2ed4e42a29",
@@ -352,7 +352,6 @@
     "selectedTokenSets": {
       "Brand/Jottacloud": "enabled"
     },
-    "group": "Brand",
     "$figmaCollectionId": "VariableCollectionId:7765:9450",
     "$figmaModeId": "7765:2",
     "$figmaVariableReferences": {
@@ -524,16 +523,16 @@
       "Colors.Branded Ramps.DM.Primary Buttons.Branded Primary Pressed": "ec392a1068a97c55265ecf06a8425f9389b9feba",
       "Colors.Branded Ramps.DM.Primary Buttons.Text Default": "34a5809b7e1957d3a515ec496da1df394782d8d8",
       "Colors.Branded Ramps.DM.Primary Buttons.Text Hover": "22bb3577a8f9c0bd5954561113840addc93332a1"
-    }
+    },
+    "group": "Brand"
   },
   {
     "id": "4c2d5be49bc559542e1a935bfa5ea34358c680fc",
     "name": "Elkjøp",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Brand/Elkjøp": "enabled"
+      "Brand/Elkjøp": "source"
     },
-    "group": "Brand",
     "$figmaCollectionId": "VariableCollectionId:7765:9450",
     "$figmaModeId": "7765:3",
     "$figmaVariableReferences": {
@@ -705,16 +704,14 @@
       "Colors.Branded Ramps.DM.Primary Buttons.Branded Primary Pressed": "ec392a1068a97c55265ecf06a8425f9389b9feba",
       "Colors.Branded Ramps.DM.Primary Buttons.Text Default": "34a5809b7e1957d3a515ec496da1df394782d8d8",
       "Colors.Branded Ramps.DM.Primary Buttons.Text Hover": "22bb3577a8f9c0bd5954561113840addc93332a1"
-    }
+    },
+    "group": "Brand"
   },
   {
     "id": "45ca6c9077b8e7a2263a7b1c94c1a32a34b89993",
     "name": "Mediamarkt",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "Brand/Mediamarkt": "enabled"
-    },
-    "group": "Brand",
+    "selectedTokenSets": {},
     "$figmaCollectionId": "VariableCollectionId:7765:9450",
     "$figmaModeId": "7765:4",
     "$figmaVariableReferences": {
@@ -886,7 +883,8 @@
       "Colors.Branded Ramps.DM.Primary Buttons.Branded Primary Pressed": "ec392a1068a97c55265ecf06a8425f9389b9feba",
       "Colors.Branded Ramps.DM.Primary Buttons.Text Default": "34a5809b7e1957d3a515ec496da1df394782d8d8",
       "Colors.Branded Ramps.DM.Primary Buttons.Text Hover": "22bb3577a8f9c0bd5954561113840addc93332a1"
-    }
+    },
+    "group": "Brand"
   },
   {
     "id": "6c316f064dc77e69f37b3e5315a0dc0947ce12d7",
@@ -895,7 +893,6 @@
     "selectedTokenSets": {
       "Brand/Telia": "enabled"
     },
-    "group": "Brand",
     "$figmaCollectionId": "VariableCollectionId:7765:9450",
     "$figmaModeId": "7765:5",
     "$figmaVariableReferences": {
@@ -1067,7 +1064,8 @@
       "Colors.Branded Ramps.DM.Primary Buttons.Branded Primary Pressed": "ec392a1068a97c55265ecf06a8425f9389b9feba",
       "Colors.Branded Ramps.DM.Primary Buttons.Text Default": "34a5809b7e1957d3a515ec496da1df394782d8d8",
       "Colors.Branded Ramps.DM.Primary Buttons.Text Hover": "22bb3577a8f9c0bd5954561113840addc93332a1"
-    }
+    },
+    "group": "Brand"
   },
   {
     "id": "020aa69ef477e57dc600a4193856ffec3e82bd1c",
@@ -1076,6 +1074,41 @@
     "selectedTokenSets": {
       "Brand/Tele 2": "enabled"
     },
+    "group": "Brand"
+  },
+  {
+    "id": "95c9ec62acea8aa156d025fdcb7c75ac92646023",
+    "name": "OBOS",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {},
+    "group": "Brand"
+  },
+  {
+    "id": "170cc701d2099b38920718bd29a60786f90c4dd7",
+    "name": "Halebop",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {},
+    "group": "Brand"
+  },
+  {
+    "id": "0415af68949ea41de84882721c6bad8c13a069c2",
+    "name": "Onlime",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {},
+    "group": "Brand"
+  },
+  {
+    "id": "0138e8068e2f2ffefa95ff69ab901a2e5663a737",
+    "name": "Saturn",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {},
+    "group": "Brand"
+  },
+  {
+    "id": "8bd7716bf189af398e7aa2035314bbe63ba046ab",
+    "name": "T-sky",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {},
     "group": "Brand"
   }
 ]

@@ -1086,5 +1086,63 @@
         }
       }
     }
+  },
+  "Website": {
+    "Paid Signup custom": {
+      "Background fill": {
+        "value": "#ede7ff",
+        "type": "color",
+        "parent": "Brand/Mediamarkt",
+        "description": ""
+      },
+      "Stroke": {
+        "value": "#7d5fe6",
+        "type": "color",
+        "parent": "Brand/Mediamarkt",
+        "description": ""
+      },
+      "Radio button": {
+        "value": "#7d5fe6",
+        "type": "color",
+        "parent": "Brand/Mediamarkt",
+        "description": ""
+      },
+      "DiscountTagBackground": {
+        "value": "#7d5fe6",
+        "type": "color",
+        "parent": "Brand/Mediamarkt",
+        "description": ""
+      },
+      "SummaryCard": {
+        "value": "#bec2ae",
+        "type": "color",
+        "parent": "Brand/Mediamarkt",
+        "description": ""
+      },
+      "Divider": {
+        "value": "#6a6d54",
+        "type": "color",
+        "parent": "Brand/Mediamarkt",
+        "description": ""
+      },
+      "Background": {
+        "value": "#e8ebde",
+        "type": "color",
+        "parent": "Brand/Mediamarkt",
+        "description": ""
+      },
+      "CTA": {
+        "value": "#c86a28",
+        "type": "color",
+        "parent": "Brand/Mediamarkt",
+        "description": ""
+      },
+      "Link": {
+        "value": "#c86a28",
+        "type": "color",
+        "parent": "Brand/Mediamarkt",
+        "description": ""
+      }
+    }
   }
 }

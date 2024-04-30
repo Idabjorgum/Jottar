@@ -137,7 +137,7 @@
   },
   "Interactive Content": {
     "Buttons": {
-      "Primary Branded": {
+      "Primary": {
         "Fill Default": {
           "value": "{Colors.Branded Ramps.DM.Primary Buttons.Branded Primary Default}",
           "type": "color",
@@ -164,50 +164,6 @@
         },
         "Text On hover": {
           "value": "{Colors.Branded Ramps.DM.Primary Buttons.Text Hover}",
-          "type": "color",
-          "parent": "Theme/Dark mode",
-          "description": ""
-        }
-      },
-      "Primary Neutral": {
-        "Text": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
-          "type": "color",
-          "parent": "Theme/Dark mode",
-          "description": ""
-        },
-        "Fill Default": {
-          "value": "{Colors.System Ramps.Foreground Greys.White}",
-          "type": "color",
-          "parent": "Theme/Dark mode",
-          "description": ""
-        },
-        "Fill On hover": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
-          "type": "color",
-          "parent": "Theme/Dark mode",
-          "description": ""
-        },
-        "Fill Pressed": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 5}",
-          "type": "color",
-          "parent": "Theme/Dark mode",
-          "description": ""
-        },
-        "Outline On hover": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
-          "type": "color",
-          "parent": "Theme/Dark mode",
-          "description": ""
-        },
-        "Outline Pressed": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
-          "type": "color",
-          "parent": "Theme/Dark mode",
-          "description": ""
-        },
-        "Text On hover": {
-          "value": "{Colors.System Ramps.Foreground Greys.Black}",
           "type": "color",
           "parent": "Theme/Dark mode",
           "description": ""
@@ -488,7 +444,10 @@
         },
         "OutlineDefault": {
           "value": "{Border.Light base}",
-          "type": "color"
+          "type": "color",
+          "parent": "Theme/Dark",
+          "description": "",
+          "oldValue": "{Border.Light base}"
         }
       },
       "Background": {
@@ -899,40 +858,40 @@
   },
   "Website": {
     "Paid Signup custom": {
-      "Background fill": {
-        "value": "#CABCFB",
+      "Stroke": {
+        "value": "{Website.Paid Signup custom.Stroke}",
         "type": "color"
       },
-      "Stroke": {
-        "value": "#7D5FE6",
+      "Background fill": {
+        "value": "{Website.Paid Signup custom.Background fill}",
         "type": "color"
       },
       "Radio button": {
-        "value": "#7D5FE6",
+        "value": "{Website.Paid Signup custom.Radio button}",
         "type": "color"
       },
       "DiscountTagBackground": {
-        "value": "#7D5FE6",
-        "type": "color"
-      },
-      "SummaryCard": {
-        "value": "#BEC2AE",
+        "value": "{Website.Paid Signup custom.DiscountTagBackground}",
         "type": "color"
       },
       "Divider": {
-        "value": "#6A6D54",
+        "value": "{Website.Paid Signup custom.Divider}",
         "type": "color"
       },
       "Background": {
-        "value": "#E8EBDE",
+        "value": "{Website.Paid Signup custom.Background}",
         "type": "color"
       },
       "CTA": {
-        "value": "#C86A28",
+        "value": "{Website.Paid Signup custom.CTA}",
         "type": "color"
       },
       "Link": {
-        "value": "#C86A28",
+        "value": "{Website.Paid Signup custom.Link}",
+        "type": "color"
+      },
+      "SummaryCard": {
+        "value": "{Website.Paid Signup custom.SummaryCard}",
         "type": "color"
       }
     }
