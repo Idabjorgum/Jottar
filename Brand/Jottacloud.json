@@ -1089,11 +1089,11 @@
   },
   "Website": {
     "Paid Signup custom": {
-      "Background fill": {
+      "Background fill Radio": {
         "value": "#CABCFB",
         "type": "color"
       },
-      "Stroke": {
+      "Stroke Radio": {
         "value": "#7D5FE6",
         "type": "color"
       },

@@ -1,40 +1,40 @@
 {
-  "Website-copy": {
+  "Website": {
     "Paid Signup custom": {
-      "Background fill": {
-        "value": "#979797",
+      "Background fill Radio": {
+        "value": "{Background.Informative}",
         "type": "color"
       },
-      "Stroke": {
-        "value": "#070707",
+      "Stroke Radio": {
+        "value": "{Foreground.Informative}",
         "type": "color"
       },
       "Radio button": {
-        "value": "#212121",
+        "value": "#7D5FE6",
         "type": "color"
       },
       "DiscountTagBackground": {
-        "value": "#a8a8a8",
+        "value": "#7D5FE6",
         "type": "color"
       },
       "SummaryCard": {
-        "value": "#b1b1b1",
+        "value": "#BEC2AE",
         "type": "color"
       },
       "Divider": {
-        "value": "#565656",
+        "value": "#6A6D54",
         "type": "color"
       },
       "Background": {
-        "value": "#d5d5d5",
+        "value": "#E8EBDE",
         "type": "color"
       },
       "CTA": {
-        "value": "#949494",
+        "value": "#C86A28",
         "type": "color"
       },
       "Link": {
-        "value": "#767676",
+        "value": "#C86A28",
         "type": "color"
       }
     }

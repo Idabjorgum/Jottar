@@ -858,12 +858,12 @@
   },
   "Website": {
     "Paid Signup custom": {
-      "Stroke": {
-        "value": "{Website.Paid Signup custom.Stroke}",
+      "Stroke Radio": {
+        "value": "{Website.Paid Signup custom.Stroke Radio}",
         "type": "color"
       },
-      "Background fill": {
-        "value": "{Website.Paid Signup custom.Background fill}",
+      "Background fill Radio": {
+        "value": "{Website.Paid Signup custom.Background fill Radio}",
         "type": "color"
       },
       "Radio button": {
