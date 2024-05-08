@@ -531,7 +531,7 @@
     "name": "Elkjøp",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Brand/Elkjøp": "source"
+      "Brand/Elkjøp": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:7765:9450",
     "$figmaModeId": "7765:3",
@@ -711,7 +711,9 @@
     "id": "45ca6c9077b8e7a2263a7b1c94c1a32a34b89993",
     "name": "Mediamarkt",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "Brand/Mediamarkt": "enabled"
+    },
     "$figmaCollectionId": "VariableCollectionId:7765:9450",
     "$figmaModeId": "7765:4",
     "$figmaVariableReferences": {
@@ -1080,35 +1082,45 @@
     "id": "95c9ec62acea8aa156d025fdcb7c75ac92646023",
     "name": "OBOS",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "Brand/OBOS": "enabled"
+    },
     "group": "Brand"
   },
   {
     "id": "170cc701d2099b38920718bd29a60786f90c4dd7",
     "name": "Halebop",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "Brand/Halebop": "enabled"
+    },
     "group": "Brand"
   },
   {
     "id": "0415af68949ea41de84882721c6bad8c13a069c2",
     "name": "Onlime",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "Brand/Onlime": "enabled"
+    },
     "group": "Brand"
   },
   {
     "id": "0138e8068e2f2ffefa95ff69ab901a2e5663a737",
     "name": "Saturn",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "Brand/Saturn": "enabled"
+    },
     "group": "Brand"
   },
   {
     "id": "8bd7716bf189af398e7aa2035314bbe63ba046ab",
-    "name": "T-sky",
+    "name": "Generic",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "Brand/Generic": "enabled"
+    },
     "group": "Brand"
   }
 ]

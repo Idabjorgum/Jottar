@@ -3,8 +3,7 @@
     "Primary": {
       "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
       "type": "color",
-      "parent": "Theme/Light mode",
-      "description": ""
+      "parent": "Theme/Light mode"
     },
     "Danger": {
       "value": "{Colors.System Ramps.Reds.Red 500}",

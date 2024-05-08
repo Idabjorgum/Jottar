@@ -1025,10 +1025,9 @@
                   "description": ""
                 },
                 "Outline Tab Button Pressed": {
-                  "value": "#ff3939",
+                  "value": "{Foreground.Primary}",
                   "type": "color",
-                  "parent": "Brand/Mediamarkt",
-                  "description": ""
+                  "parent": "Brand/Mediamarkt"
                 },
                 "Fill Tab Button Pressed": {
                   "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",

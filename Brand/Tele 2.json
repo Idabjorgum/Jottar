@@ -2055,5 +2055,45 @@
         "type": "color"
       }
     }
+  },
+  "Website-copy": {
+    "Paid Signup custom": {
+      "Background fill": {
+        "value": "#CABCFB",
+        "type": "color"
+      },
+      "Stroke": {
+        "value": "#7D5FE6",
+        "type": "color"
+      },
+      "Radio button": {
+        "value": "#7D5FE6",
+        "type": "color"
+      },
+      "DiscountTagBackground": {
+        "value": "#7D5FE6",
+        "type": "color"
+      },
+      "SummaryCard": {
+        "value": "#BEC2AE",
+        "type": "color"
+      },
+      "Divider": {
+        "value": "#6A6D54",
+        "type": "color"
+      },
+      "Background": {
+        "value": "#E8EBDE",
+        "type": "color"
+      },
+      "CTA": {
+        "value": "#C86A28",
+        "type": "color"
+      },
+      "Link": {
+        "value": "#C86A28",
+        "type": "color"
+      }
+    }
   }
 }

@@ -1,0 +1,42 @@
+{
+  "Website-copy": {
+    "Paid Signup custom": {
+      "Background fill": {
+        "value": "#979797",
+        "type": "color"
+      },
+      "Stroke": {
+        "value": "#070707",
+        "type": "color"
+      },
+      "Radio button": {
+        "value": "#212121",
+        "type": "color"
+      },
+      "DiscountTagBackground": {
+        "value": "#a8a8a8",
+        "type": "color"
+      },
+      "SummaryCard": {
+        "value": "#b1b1b1",
+        "type": "color"
+      },
+      "Divider": {
+        "value": "#565656",
+        "type": "color"
+      },
+      "Background": {
+        "value": "#d5d5d5",
+        "type": "color"
+      },
+      "CTA": {
+        "value": "#949494",
+        "type": "color"
+      },
+      "Link": {
+        "value": "#767676",
+        "type": "color"
+      }
+    }
+  }
+}
