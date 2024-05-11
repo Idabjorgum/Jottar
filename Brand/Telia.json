@@ -1090,39 +1090,39 @@
   "Website": {
     "Paid Signup custom": {
       "Background fill Radio": {
-        "value": "{Background.Informative}",
+        "value": "{Colors.System Ramps.Blues.Blue 100}",
         "type": "color"
       },
       "Stroke Radio": {
-        "value": "{Foreground.Informative}",
+        "value": "{Colors.System Ramps.Blues.Blue 600}",
         "type": "color"
       },
       "Radio button": {
-        "value": "#7D5FE6",
+        "value": "{Colors.System Ramps.Blues.Blue 600}",
         "type": "color"
       },
       "DiscountTagBackground": {
-        "value": "#7D5FE6",
+        "value": "{Colors.System Ramps.Blues.Blue 600}",
         "type": "color"
       },
       "SummaryCard": {
-        "value": "#BEC2AE",
+        "value": "{Colors.System Ramps.Background Whites.White 7}",
         "type": "color"
       },
       "Divider": {
-        "value": "#6A6D54",
+        "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
         "type": "color"
       },
       "Background": {
-        "value": "#E8EBDE",
+        "value": "{Colors.System Ramps.Background Whites.White 3}",
         "type": "color"
       },
       "CTA": {
-        "value": "#C86A28",
+        "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
         "type": "color"
       },
       "Link": {
-        "value": "#C86A28",
+        "value": "{Colors.System Ramps.Blues.Blue 600}",
         "type": "color"
       }
     }
