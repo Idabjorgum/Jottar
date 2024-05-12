@@ -693,6 +693,10 @@
             "parent": "Brand/Jottacloud",
             "description": ""
           },
+          "Control element": {
+            "value": "{Colors.System Ramps.Blues.Blue 500}",
+            "type": "color"
+          },
           "Primary Button": {
             "Fill Default": {
               "value": "#7d5fe6",
@@ -794,6 +798,10 @@
             "type": "color",
             "parent": "Brand/Jottacloud",
             "description": ""
+          },
+          "Control element": {
+            "value": "{Colors.System Ramps.Blues.Blue 400}",
+            "type": "color"
           },
           "Primary Button": {
             "Fill Default": {

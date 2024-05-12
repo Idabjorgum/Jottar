@@ -806,6 +806,10 @@
       "type": "color",
       "parent": "Theme/Light mode",
       "description": ""
+    },
+    "Control element": {
+      "value": "{Colors.Branded Ramps.LM.Elements.Control element}",
+      "type": "color"
     }
   },
   "Black and white": {
@@ -1635,5 +1639,9 @@
         "type": "color"
       }
     }
+  },
+  "Radio": {
+    "value": "#",
+    "type": "color"
   }
 }

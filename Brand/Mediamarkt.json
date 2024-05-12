@@ -692,6 +692,10 @@
             "parent": "Brand/Mediamarkt",
             "description": ""
           },
+          "Control element": {
+            "value": "{Colors.System Ramps.Blues.Blue 500}",
+            "type": "color"
+          },
           "Primary Button": {
             "Fill Default": {
               "value": "{Colors.System Ramps.Foreground Greys.Black}",
@@ -792,6 +796,10 @@
             "type": "color",
             "parent": "Brand/Mediamarkt",
             "description": ""
+          },
+          "Control element": {
+            "value": "{Colors.System Ramps.Blues.Blue 400}",
+            "type": "color"
           },
           "Primary Button": {
             "Fill Default": {

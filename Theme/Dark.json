@@ -798,6 +798,10 @@
       "type": "color",
       "parent": "Theme/Dark mode",
       "description": ""
+    },
+    "Control element": {
+      "value": "{Colors.Branded Ramps.DM.Elements.Control element}",
+      "type": "color"
     }
   },
   "Black and white": {

@@ -693,6 +693,10 @@
             "parent": "Brand/Telia",
             "description": ""
           },
+          "Control element": {
+            "value": "{Colors.System Ramps.Blues.Blue 500}",
+            "type": "color"
+          },
           "Primary Button": {
             "Fill Default": {
               "value": "#990ae3",
@@ -794,6 +798,10 @@
             "type": "color",
             "parent": "Brand/Telia",
             "description": ""
+          },
+          "Control element": {
+            "value": "{Colors.System Ramps.Blues.Blue 400}",
+            "type": "color"
           },
           "Primary Button": {
             "Fill Default": {
