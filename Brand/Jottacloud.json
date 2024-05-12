@@ -774,13 +774,47 @@
               "value": "#E8EBDE",
               "type": "color"
             },
-            "CTA": {
-              "value": "#C86A28",
-              "type": "color"
-            },
             "Link": {
               "value": "#C86A28",
               "type": "color"
+            },
+            "CTA": {
+              "Fill Default": {
+                "value": "#C86A28",
+                "type": "color"
+              },
+              "Fill Hover": {
+                "value": "#bd6627",
+                "type": "color"
+              },
+              "Fill Pressed": {
+                "value": "#ad5e26",
+                "type": "color"
+              },
+              "Text Default": {
+                "value": "{Colors.System Ramps.Foreground Greys.White}",
+                "type": "color"
+              },
+              "Text Hover": {
+                "value": "{Colors.System Ramps.Foreground Greys.White}",
+                "type": "color"
+              },
+              "Text Pressed": {
+                "value": "{Colors.System Ramps.Foreground Greys.White}",
+                "type": "color"
+              },
+              "Outline Default": {
+                "value": "#C86A28",
+                "type": "color"
+              },
+              "Outline Hover": {
+                "value": "#bd6627",
+                "type": "color"
+              },
+              "Outline Pressed": {
+                "value": "#ad5e26",
+                "type": "color"
+              }
             }
           }
         }

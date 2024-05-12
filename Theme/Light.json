@@ -1626,10 +1626,6 @@
         "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Background}",
         "type": "color"
       },
-      "CTA": {
-        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA}",
-        "type": "color"
-      },
       "Link": {
         "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Link}",
         "type": "color"
@@ -1637,11 +1633,45 @@
       "Summary Card": {
         "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Summary Card}",
         "type": "color"
+      },
+      "CTA": {
+        "Fill Default": {
+          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Fill Default}",
+          "type": "color"
+        },
+        "Fill Hover": {
+          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Fill Hover}",
+          "type": "color"
+        },
+        "Fill Pressed": {
+          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Fill Pressed}",
+          "type": "color"
+        },
+        "Text Default": {
+          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Text Default}",
+          "type": "color"
+        },
+        "Text Hover": {
+          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Text Hover}",
+          "type": "color"
+        },
+        "Text Pressed": {
+          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Text Pressed}",
+          "type": "color"
+        },
+        "Outline Default": {
+          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Outline Default}",
+          "type": "color"
+        },
+        "Outline Hover": {
+          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Outline Hover}",
+          "type": "color"
+        },
+        "Outline Pressed": {
+          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Outline Pressed}",
+          "type": "color"
+        }
       }
     }
-  },
-  "Radio": {
-    "value": "#",
-    "type": "color"
   }
 }

@@ -11,6 +11,10 @@
     "Brand/Halebop",
     "Brand/Onlime",
     "Brand/Saturn",
-    "Brand/Generic"
+    "Brand/Generic",
+    "Web break points/Large",
+    "Web break points/Medium",
+    "Web break points/Small",
+    "Web break points/X Large"
   ]
 }
