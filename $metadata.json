@@ -1,6 +1,5 @@
 {
   "tokenSetOrder": [
-    "global",
     "Theme/Light",
     "Theme/Dark",
     "Brand/Jottacloud",
@@ -12,13 +11,6 @@
     "Brand/Halebop",
     "Brand/Onlime",
     "Brand/Saturn",
-    "Brand/Generic",
-    "Web break points/Large",
-    "Web break points/Medium",
-    "Web break points/Small",
-    "Web break points/X Large",
-    "OBOS",
-    "Onlime",
-    "T-sky"
+    "Brand/Generic"
   ]
 }

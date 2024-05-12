@@ -366,8 +366,8 @@
     },
     "Branded Ramps": {
       "LM": {
-        "Navigation": {
-          "Desktop": {
+        "Desktop": {
+          "Navigation": {
             "BackG": {
               "Title bar": {
                 "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
@@ -498,8 +498,10 @@
                 "description": ""
               }
             }
-          },
-          "Mobile": {
+          }
+        },
+        "Mobile": {
+          "Navigation": {
             "Android": {
               "Bottom Bar": {
                 "Text Default": {
@@ -680,68 +682,169 @@
         },
         "Elements": {
           "Folders": {
-            "value": "{Colors.System Ramps.Foreground Greys.Grey 9}",
+            "value": "#272422",
             "type": "color",
-            "parent": "Brand/Mediamarkt",
-            "description": ""
+            "parent": "Brand/Mediamarkt"
           },
           "Logo": {
             "value": "#df0000",
             "type": "color",
             "parent": "Brand/Mediamarkt",
             "description": ""
+          },
+          "Primary Button": {
+            "Fill Default": {
+              "value": "{Colors.System Ramps.Foreground Greys.Black}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt"
+            },
+            "Fill Hover": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 8}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt"
+            },
+            "Fill Pressed": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt"
+            },
+            "Text Default": {
+              "value": "{Colors.System Ramps.Foreground Greys.White}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt",
+              "description": ""
+            },
+            "Text Hover": {
+              "value": "{Colors.System Ramps.Foreground Greys.White}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt",
+              "description": ""
+            },
+            "Text Pressed": {
+              "value": "{Colors.System Ramps.Foreground Greys.White}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt"
+            },
+            "Outline Default": {
+              "value": "{Colors.System Ramps.Foreground Greys.Black}",
+              "type": "color"
+            },
+            "Outline Hover": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 8}",
+              "type": "color"
+            },
+            "Outline Pressed": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+              "type": "color"
+            }
           }
         },
-        "Primary Buttons": {
-          "Branded Primary Default": {
-            "value": "{Colors.System Ramps.Foreground Greys.Black}",
-            "type": "color",
-            "parent": "Brand/Mediamarkt",
-            "description": ""
-          },
-          "Branded Primary Hover": {
-            "value": "{Colors.System Ramps.Foreground Greys.Grey 8}",
-            "type": "color",
-            "parent": "Brand/Mediamarkt",
-            "description": ""
-          },
-          "Branded Primary Pressed": {
-            "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
-            "type": "color",
-            "parent": "Brand/Mediamarkt",
-            "description": ""
-          },
-          "Text Default": {
-            "value": "{Colors.System Ramps.Foreground Greys.White}",
-            "type": "color",
-            "parent": "Brand/Mediamarkt",
-            "description": ""
-          },
-          "Text Hover": {
-            "value": "{Colors.System Ramps.Foreground Greys.White}",
-            "type": "color",
-            "parent": "Brand/Mediamarkt",
-            "description": ""
+        "Website": {
+          "Paid Signup custom": {
+            "Background fill Radio": {
+              "value": "{Colors.System Ramps.Blues.Blue 100}",
+              "type": "color"
+            },
+            "Stroke Radio": {
+              "value": "{Colors.System Ramps.Blues.Blue 600}",
+              "type": "color"
+            },
+            "Radio button": {
+              "value": "{Colors.System Ramps.Blues.Blue 600}",
+              "type": "color"
+            },
+            "Discount Tag Background": {
+              "value": "{Colors.System Ramps.Blues.Blue 600}",
+              "type": "color"
+            },
+            "Summary Card": {
+              "value": "{Colors.System Ramps.Background Whites.White 7}",
+              "type": "color"
+            },
+            "Divider": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
+              "type": "color"
+            },
+            "Background": {
+              "value": "{Colors.System Ramps.Background Whites.White 3}",
+              "type": "color"
+            },
+            "CTA": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+              "type": "color"
+            },
+            "Link": {
+              "value": "{Colors.System Ramps.Blues.Blue 600}",
+              "type": "color"
+            }
           }
         }
       },
       "DM": {
         "Elements": {
           "Folders": {
-            "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
+            "value": "#D9DCDF",
             "type": "color",
-            "parent": "Brand/Mediamarkt",
-            "description": ""
+            "parent": "Brand/Mediamarkt"
           },
           "Logo": {
             "value": "#ff3939",
             "type": "color",
             "parent": "Brand/Mediamarkt",
             "description": ""
+          },
+          "Primary Button": {
+            "Fill Default": {
+              "value": "{Colors.System Ramps.Foreground Greys.White}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt"
+            },
+            "Fill Hover": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt"
+            },
+            "Fill Pressed": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt"
+            },
+            "Text Default": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt",
+              "description": ""
+            },
+            "Text Hover": {
+              "value": "{Colors.System Ramps.Foreground Greys.Black}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt",
+              "description": ""
+            },
+            "Text Pressed": {
+              "value": "{Colors.System Ramps.Foreground Greys.Black}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt"
+            },
+            "Outline Default": {
+              "value": "{Colors.System Ramps.Foreground Greys.White}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt"
+            },
+            "Outline Hover": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt"
+            },
+            "Outline Pressed": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt"
+            }
           }
         },
-        "Navigation": {
-          "Desktop": {
+        "Desktop": {
+          "Navigation": {
             "ForeG": {
               "Default": {
                 "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
@@ -872,8 +975,10 @@
                 "description": ""
               }
             }
-          },
-          "Mobile": {
+          }
+        },
+        "Mobile": {
+          "Navigation": {
             "Header": {
               "Text": {
                 "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
@@ -1050,79 +1155,7 @@
               }
             }
           }
-        },
-        "Primary Buttons": {
-          "Branded Primary Default": {
-            "value": "{Colors.System Ramps.Foreground Greys.White}",
-            "type": "color",
-            "parent": "Brand/Mediamarkt",
-            "description": ""
-          },
-          "Branded Primary Hover": {
-            "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
-            "type": "color",
-            "parent": "Brand/Mediamarkt",
-            "description": ""
-          },
-          "Branded Primary Pressed": {
-            "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
-            "type": "color",
-            "parent": "Brand/Mediamarkt",
-            "description": ""
-          },
-          "Text Default": {
-            "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
-            "type": "color",
-            "parent": "Brand/Mediamarkt",
-            "description": ""
-          },
-          "Text Hover": {
-            "value": "{Colors.System Ramps.Foreground Greys.Black}",
-            "type": "color",
-            "parent": "Brand/Mediamarkt",
-            "description": ""
-          }
         }
-      }
-    }
-  },
-  "Website": {
-    "Paid Signup custom": {
-      "Background fill Radio": {
-        "value": "{Colors.System Ramps.Blues.Blue 100}",
-        "type": "color"
-      },
-      "Stroke Radio": {
-        "value": "{Colors.System Ramps.Blues.Blue 600}",
-        "type": "color"
-      },
-      "Radio button": {
-        "value": "{Colors.System Ramps.Blues.Blue 600}",
-        "type": "color"
-      },
-      "DiscountTagBackground": {
-        "value": "{Colors.System Ramps.Blues.Blue 600}",
-        "type": "color"
-      },
-      "SummaryCard": {
-        "value": "{Colors.System Ramps.Background Whites.White 7}",
-        "type": "color"
-      },
-      "Divider": {
-        "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
-        "type": "color"
-      },
-      "Background": {
-        "value": "{Colors.System Ramps.Background Whites.White 3}",
-        "type": "color"
-      },
-      "CTA": {
-        "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
-        "type": "color"
-      },
-      "Link": {
-        "value": "{Colors.System Ramps.Blues.Blue 600}",
-        "type": "color"
       }
     }
   }

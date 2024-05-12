@@ -1,41 +1,533 @@
 {
-  "Website": {
-    "Paid Signup custom": {
-      "Background fill Radio": {
-        "value": "{Colors.System Ramps.Blues.Blue 100}",
-        "type": "color"
+  "Colors": {
+    "System Ramps": {
+      "Greens": {
+        "Green 100": {
+          "value": "#e6fff6",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Green 200": {
+          "value": "#8af2cd",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Green 300": {
+          "value": "#60d9ae",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Green 400": {
+          "value": "#45c296",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Green 500": {
+          "value": "#018556",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Green 600": {
+          "value": "#00734a",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Green 700": {
+          "value": "#025e3d",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Green 800": {
+          "value": "#003b26",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        }
       },
-      "Stroke Radio": {
-        "value": "{Colors.System Ramps.Blues.Blue 600}",
-        "type": "color"
+      "Yellows": {
+        "Yellow 100": {
+          "value": "#faf4d9",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Yellow 200": {
+          "value": "#f8edc4",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Yellow 300": {
+          "value": "#f4e2a3",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Yellow 400": {
+          "value": "#edd26f",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Yellow 500": {
+          "value": "#e4b91e",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Yellow 600": {
+          "value": "#b89518",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Yellow 700": {
+          "value": "#765f0f",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Yellow 800": {
+          "value": "#4b3d0a",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        }
       },
-      "Radio button": {
-        "value": "{Colors.System Ramps.Blues.Blue 600}",
-        "type": "color"
+      "Reds": {
+        "Red 100": {
+          "value": "#fde5e6",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Red 200": {
+          "value": "#fbcbcd",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Red 300": {
+          "value": "#f8a9ac",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Red 400": {
+          "value": "#f46f74",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Red 500": {
+          "value": "#ef3138",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Red 600": {
+          "value": "#c72127",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Red 700": {
+          "value": "#75181b",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Red 800": {
+          "value": "#460e10",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        }
       },
-      "DiscountTagBackground": {
-        "value": "{Colors.System Ramps.Blues.Blue 600}",
-        "type": "color"
+      "Blues": {
+        "Blue 100": {
+          "value": "#ebf2ff",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": ""
+        },
+        "Blue 200": {
+          "value": "#d9edff",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": ""
+        },
+        "Blue 300": {
+          "value": "#a9cef1",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": ""
+        },
+        "Blue 400": {
+          "value": "#46a8ef",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": ""
+        },
+        "Blue 500": {
+          "value": "#0b76d9",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": ""
+        },
+        "Blue 600": {
+          "value": "#085398",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": ""
+        },
+        "Blue 700": {
+          "value": "#0b2e62",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": ""
+        },
+        "Blue 800": {
+          "value": "#071a3e",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": ""
+        }
       },
-      "SummaryCard": {
-        "value": "{Colors.System Ramps.Background Whites.White 7}",
-        "type": "color"
+      "Background Blacks": {
+        "Black 2": {
+          "value": "#161719",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Black 3": {
+          "value": "#202123",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": ""
+        },
+        "Black 4": {
+          "value": "#27292c",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Black 5": {
+          "value": "#2e3236",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": ""
+        },
+        "Black 6": {
+          "value": "#33373c",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Black 7": {
+          "value": "#393e42",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Black 1": {
+          "value": "#000000",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        }
       },
-      "Divider": {
-        "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
-        "type": "color"
+      "Background Whites": {
+        "White 1": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "White 2": {
+          "value": "#f9fafa",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "White 3": {
+          "value": "#f5f6f7",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": ""
+        },
+        "White 4": {
+          "value": "#f5f6f1",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "White 5": {
+          "value": "#ededed",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": ""
+        },
+        "White 6": {
+          "value": "#e8e8e8",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "White 7": {
+          "value": "#e3e3e3",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        }
       },
-      "Background": {
-        "value": "{Colors.System Ramps.Background Whites.White 3}",
-        "type": "color"
+      "Foreground Greys": {
+        "White": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Grey 1": {
+          "value": "#f5f6f7",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": ""
+        },
+        "Grey 2": {
+          "value": "#d9dcdf",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Grey 3": {
+          "value": "#c3c8cd",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": ""
+        },
+        "Grey 4": {
+          "value": "#a7acb1",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Grey 5": {
+          "value": "#92989f",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Grey 6": {
+          "value": "#6f757b",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Grey 7": {
+          "value": "#5c6166",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Grey 8": {
+          "value": "#4a4d50",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Grey 9": {
+          "value": "#3d3e40",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Grey 10": {
+          "value": "#2d2f32",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Black": {
+          "value": "#000000",
+          "type": "color",
+          "parent": "Brand/Telia",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        }
+      }
+    },
+    "Branded Ramps": {
+      "LM": {
+        "Elements": {
+          "Folders": {
+            "value": "{Colors.System Ramps.Foreground Greys.Grey 9}",
+            "type": "color",
+            "parent": "Brand/Mediamarkt"
+          },
+          "Logo": {
+            "value": "{Colors.System Ramps.Foreground Greys.Black}",
+            "type": "color",
+            "parent": "Brand/Mediamarkt"
+          },
+          "Primary Button": {
+            "Fill Default": {
+              "value": "{Colors.System Ramps.Foreground Greys.Black}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt"
+            },
+            "Fill Hover": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 8}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt"
+            },
+            "Fill Pressed": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt"
+            },
+            "Text Default": {
+              "value": "{Colors.System Ramps.Foreground Greys.White}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt",
+              "description": ""
+            },
+            "Text Hover": {
+              "value": "{Colors.System Ramps.Foreground Greys.White}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt",
+              "description": ""
+            },
+            "Text Pressed": {
+              "value": "{Colors.System Ramps.Foreground Greys.White}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt"
+            },
+            "Outline Default": {
+              "value": "{Colors.System Ramps.Foreground Greys.Black}",
+              "type": "color"
+            },
+            "Outline Hover": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 8}",
+              "type": "color"
+            },
+            "Outline Pressed": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+              "type": "color"
+            }
+          }
+        },
+        "Website": {
+          "Paid Signup custom": {
+            "Background fill Radio": {
+              "value": "{Colors.System Ramps.Blues.Blue 100}",
+              "type": "color"
+            },
+            "Stroke Radio": {
+              "value": "{Colors.System Ramps.Blues.Blue 600}",
+              "type": "color"
+            },
+            "Radio button": {
+              "value": "{Colors.System Ramps.Blues.Blue 600}",
+              "type": "color"
+            },
+            "Discount Tag Background": {
+              "value": "{Colors.System Ramps.Blues.Blue 600}",
+              "type": "color"
+            },
+            "Summary Card": {
+              "value": "{Colors.System Ramps.Background Whites.White 7}",
+              "type": "color"
+            },
+            "Divider": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
+              "type": "color"
+            },
+            "Background": {
+              "value": "{Colors.System Ramps.Background Whites.White 3}",
+              "type": "color"
+            },
+            "CTA": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+              "type": "color"
+            },
+            "Link": {
+              "value": "{Colors.System Ramps.Blues.Blue 600}",
+              "type": "color"
+            }
+          }
+        }
       },
-      "CTA": {
-        "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
-        "type": "color"
-      },
-      "Link": {
-        "value": "{Colors.System Ramps.Blues.Blue 600}",
-        "type": "color"
+      "DM": {
+        "Elements": {
+          "Folders": {
+            "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
+            "type": "color",
+            "parent": "Brand/Mediamarkt",
+            "description": ""
+          },
+          "Logo": {
+            "value": "{Colors.System Ramps.Foreground Greys.White}",
+            "type": "color",
+            "parent": "Brand/Mediamarkt"
+          },
+          "Primary Button": {
+            "Fill Default": {
+              "value": "{Colors.System Ramps.Foreground Greys.White}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt"
+            },
+            "Fill Hover": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt"
+            },
+            "Fill Pressed": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt"
+            },
+            "Text Default": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt",
+              "description": ""
+            },
+            "Text Hover": {
+              "value": "{Colors.System Ramps.Foreground Greys.Black}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt",
+              "description": ""
+            },
+            "Text Pressed": {
+              "value": "{Colors.System Ramps.Foreground Greys.Black}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt"
+            },
+            "Outline Default": {
+              "value": "{Colors.System Ramps.Foreground Greys.White}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt"
+            },
+            "Outline Hover": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt"
+            },
+            "Outline Pressed": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
+              "type": "color",
+              "parent": "Brand/Mediamarkt"
+            }
+          }
+        }
       }
     }
   }

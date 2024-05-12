@@ -366,8 +366,8 @@
     },
     "Branded Ramps": {
       "LM": {
-        "Navigation": {
-          "Desktop": {
+        "Desktop": {
+          "Navigation": {
             "BackG": {
               "Title bar": {
                 "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
@@ -498,8 +498,10 @@
                 "description": ""
               }
             }
-          },
-          "Mobile": {
+          }
+        },
+        "Mobile": {
+          "Navigation": {
             "Android": {
               "Bottom Bar": {
                 "Text Default": {
@@ -690,38 +692,92 @@
             "type": "color",
             "parent": "Brand/Telia",
             "description": ""
+          },
+          "Primary Button": {
+            "Fill Default": {
+              "value": "#990ae3",
+              "type": "color",
+              "parent": "Brand/Telia"
+            },
+            "Fill Hover": {
+              "value": "#7e0ab9",
+              "type": "color",
+              "parent": "Brand/Telia"
+            },
+            "Fill Pressed": {
+              "value": "#b437f5",
+              "type": "color",
+              "parent": "Brand/Telia"
+            },
+            "Text Default": {
+              "value": "{Colors.System Ramps.Foreground Greys.White}",
+              "type": "color",
+              "parent": "Brand/Telia",
+              "description": ""
+            },
+            "Text Hover": {
+              "value": "{Colors.System Ramps.Foreground Greys.White}",
+              "type": "color",
+              "parent": "Brand/Telia",
+              "description": ""
+            },
+            "Text Pressed": {
+              "value": "{Colors.System Ramps.Foreground Greys.White}",
+              "type": "color",
+              "parent": "Brand/Telia"
+            },
+            "Outline Default": {
+              "value": "#990ae3",
+              "type": "color"
+            },
+            "Outline Hover": {
+              "value": "#7e0ab9",
+              "type": "color"
+            },
+            "Outline Pressed": {
+              "value": "#b437f5",
+              "type": "color"
+            }
           }
         },
-        "Primary Buttons": {
-          "Branded Primary Default": {
-            "value": "#990ae3",
-            "type": "color",
-            "parent": "Brand/Telia",
-            "description": ""
-          },
-          "Branded Primary Hover": {
-            "value": "#7e0ab9",
-            "type": "color",
-            "parent": "Brand/Telia",
-            "description": ""
-          },
-          "Branded Primary Pressed": {
-            "value": "#b437f5",
-            "type": "color",
-            "parent": "Brand/Telia",
-            "description": ""
-          },
-          "Text Default": {
-            "value": "{Colors.System Ramps.Foreground Greys.White}",
-            "type": "color",
-            "parent": "Brand/Telia",
-            "description": ""
-          },
-          "Text Hover": {
-            "value": "{Colors.System Ramps.Foreground Greys.White}",
-            "type": "color",
-            "parent": "Brand/Telia",
-            "description": ""
+        "Website": {
+          "Paid Signup custom": {
+            "Background fill Radio": {
+              "value": "{Colors.System Ramps.Blues.Blue 100}",
+              "type": "color"
+            },
+            "Stroke Radio": {
+              "value": "{Colors.System Ramps.Blues.Blue 600}",
+              "type": "color"
+            },
+            "Radio button": {
+              "value": "{Colors.System Ramps.Blues.Blue 600}",
+              "type": "color"
+            },
+            "Discount Tag Background": {
+              "value": "{Colors.System Ramps.Blues.Blue 600}",
+              "type": "color"
+            },
+            "Summary Card": {
+              "value": "{Colors.System Ramps.Background Whites.White 7}",
+              "type": "color"
+            },
+            "Divider": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
+              "type": "color"
+            },
+            "Background": {
+              "value": "{Colors.System Ramps.Background Whites.White 3}",
+              "type": "color"
+            },
+            "CTA": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+              "type": "color"
+            },
+            "Link": {
+              "value": "{Colors.System Ramps.Blues.Blue 600}",
+              "type": "color"
+            }
           }
         }
       },
@@ -738,10 +794,59 @@
             "type": "color",
             "parent": "Brand/Telia",
             "description": ""
+          },
+          "Primary Button": {
+            "Fill Default": {
+              "value": "#b31fff",
+              "type": "color",
+              "parent": "Brand/Telia"
+            },
+            "Fill Hover": {
+              "value": "#9d1be0",
+              "type": "color",
+              "parent": "Brand/Telia"
+            },
+            "Fill Pressed": {
+              "value": "#c555ff",
+              "type": "color",
+              "parent": "Brand/Telia"
+            },
+            "Text Default": {
+              "value": "{Colors.System Ramps.Foreground Greys.White}",
+              "type": "color",
+              "parent": "Brand/Telia",
+              "description": ""
+            },
+            "Text Hover": {
+              "value": "{Colors.System Ramps.Foreground Greys.White}",
+              "type": "color",
+              "parent": "Brand/Telia",
+              "description": ""
+            },
+            "Text Pressed": {
+              "value": "{Colors.System Ramps.Foreground Greys.White}",
+              "type": "color",
+              "parent": "Brand/Telia"
+            },
+            "Outline Default": {
+              "value": "#b31fff",
+              "type": "color",
+              "parent": "Brand/Telia"
+            },
+            "Outline Hover": {
+              "value": "#9d1be0",
+              "type": "color",
+              "parent": "Brand/Telia"
+            },
+            "Outline Pressed": {
+              "value": "#c555ff",
+              "type": "color",
+              "parent": "Brand/Telia"
+            }
           }
         },
-        "Navigation": {
-          "Desktop": {
+        "Desktop": {
+          "Navigation": {
             "ForeG": {
               "Default": {
                 "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
@@ -872,8 +977,10 @@
                 "description": ""
               }
             }
-          },
-          "Mobile": {
+          }
+        },
+        "Mobile": {
+          "Navigation": {
             "Header": {
               "Text": {
                 "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
@@ -1051,79 +1158,7 @@
               }
             }
           }
-        },
-        "Primary Buttons": {
-          "Branded Primary Default": {
-            "value": "#b31fff",
-            "type": "color",
-            "parent": "Brand/Telia",
-            "description": ""
-          },
-          "Branded Primary Hover": {
-            "value": "#9d1be0",
-            "type": "color",
-            "parent": "Brand/Telia",
-            "description": ""
-          },
-          "Branded Primary Pressed": {
-            "value": "#c555ff",
-            "type": "color",
-            "parent": "Brand/Telia",
-            "description": ""
-          },
-          "Text Default": {
-            "value": "{Colors.System Ramps.Foreground Greys.White}",
-            "type": "color",
-            "parent": "Brand/Telia",
-            "description": ""
-          },
-          "Text Hover": {
-            "value": "{Colors.System Ramps.Foreground Greys.White}",
-            "type": "color",
-            "parent": "Brand/Telia",
-            "description": ""
-          }
         }
-      }
-    }
-  },
-  "Website": {
-    "Paid Signup custom": {
-      "Background fill Radio": {
-        "value": "{Colors.System Ramps.Blues.Blue 100}",
-        "type": "color"
-      },
-      "Stroke Radio": {
-        "value": "{Colors.System Ramps.Blues.Blue 600}",
-        "type": "color"
-      },
-      "Radio button": {
-        "value": "{Colors.System Ramps.Blues.Blue 600}",
-        "type": "color"
-      },
-      "DiscountTagBackground": {
-        "value": "{Colors.System Ramps.Blues.Blue 600}",
-        "type": "color"
-      },
-      "SummaryCard": {
-        "value": "{Colors.System Ramps.Background Whites.White 7}",
-        "type": "color"
-      },
-      "Divider": {
-        "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
-        "type": "color"
-      },
-      "Background": {
-        "value": "{Colors.System Ramps.Background Whites.White 3}",
-        "type": "color"
-      },
-      "CTA": {
-        "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
-        "type": "color"
-      },
-      "Link": {
-        "value": "{Colors.System Ramps.Blues.Blue 600}",
-        "type": "color"
       }
     }
   }

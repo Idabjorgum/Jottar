@@ -366,8 +366,8 @@
     },
     "Branded Ramps": {
       "LM": {
-        "Navigation": {
-          "Desktop": {
+        "Desktop": {
+          "Navigation": {
             "BackG": {
               "Title bar": {
                 "value": "#f5f1fc",
@@ -498,8 +498,10 @@
                 "description": ""
               }
             }
-          },
-          "Mobile": {
+          }
+        },
+        "Mobile": {
+          "Navigation": {
             "Android": {
               "Bottom Bar": {
                 "Text Default": {
@@ -690,38 +692,92 @@
             "type": "color",
             "parent": "Brand/Jottacloud",
             "description": ""
+          },
+          "Primary Button": {
+            "Fill Default": {
+              "value": "#7d5fe6",
+              "type": "color",
+              "parent": "Brand/Jottacloud"
+            },
+            "Fill Hover": {
+              "value": "#5e40c9",
+              "type": "color",
+              "parent": "Brand/Jottacloud"
+            },
+            "Fill Pressed": {
+              "value": "#8f72f1",
+              "type": "color",
+              "parent": "Brand/Jottacloud"
+            },
+            "Text Default": {
+              "value": "{Colors.System Ramps.Foreground Greys.White}",
+              "type": "color",
+              "parent": "Brand/Jottacloud",
+              "description": ""
+            },
+            "Text Hover": {
+              "value": "{Colors.System Ramps.Foreground Greys.White}",
+              "type": "color",
+              "parent": "Brand/Jottacloud",
+              "description": ""
+            },
+            "Text Pressed": {
+              "value": "{Colors.System Ramps.Foreground Greys.White}",
+              "type": "color",
+              "parent": "Brand/Jottacloud"
+            },
+            "Outline Default": {
+              "value": "#7d5fe6",
+              "type": "color"
+            },
+            "Outline Hover": {
+              "value": "#",
+              "type": "color"
+            },
+            "Outline Pressed": {
+              "value": "#",
+              "type": "color"
+            }
           }
         },
-        "Primary Buttons": {
-          "Branded Primary Default": {
-            "value": "#7d5fe6",
-            "type": "color",
-            "parent": "Brand/Jottacloud",
-            "description": ""
-          },
-          "Branded Primary Hover": {
-            "value": "#5e40c9",
-            "type": "color",
-            "parent": "Brand/Jottacloud",
-            "description": ""
-          },
-          "Branded Primary Pressed": {
-            "value": "#8f72f1",
-            "type": "color",
-            "parent": "Brand/Jottacloud",
-            "description": ""
-          },
-          "Text Default": {
-            "value": "{Colors.System Ramps.Foreground Greys.White}",
-            "type": "color",
-            "parent": "Brand/Jottacloud",
-            "description": ""
-          },
-          "Text Hover": {
-            "value": "{Colors.System Ramps.Foreground Greys.White}",
-            "type": "color",
-            "parent": "Brand/Jottacloud",
-            "description": ""
+        "Website": {
+          "Paid Signup custom": {
+            "Background fill Radio": {
+              "value": "#EDE7FF",
+              "type": "color"
+            },
+            "Stroke Radio": {
+              "value": "#7D5FE6",
+              "type": "color"
+            },
+            "Radio button": {
+              "value": "#7D5FE6",
+              "type": "color"
+            },
+            "Discount Tag Background": {
+              "value": "#7D5FE6",
+              "type": "color"
+            },
+            "Summary Card": {
+              "value": "#BEC2AE",
+              "type": "color"
+            },
+            "Divider": {
+              "value": "#6A6D54",
+              "type": "color"
+            },
+            "Background": {
+              "value": "#E8EBDE",
+              "type": "color"
+            },
+            "CTA": {
+              "value": "#C86A28",
+              "type": "color"
+            },
+            "Link": {
+              "value": "#C86A28",
+              "type": "color"
+            }
           }
         }
       },
@@ -738,10 +794,59 @@
             "type": "color",
             "parent": "Brand/Jottacloud",
             "description": ""
+          },
+          "Primary Button": {
+            "Fill Default": {
+              "value": "#8f72f1",
+              "type": "color",
+              "parent": "Brand/Jottacloud"
+            },
+            "Fill Hover": {
+              "value": "#7b60d7",
+              "type": "color",
+              "parent": "Brand/Jottacloud"
+            },
+            "Fill Pressed": {
+              "value": "#9b7efe",
+              "type": "color",
+              "parent": "Brand/Jottacloud"
+            },
+            "Text Default": {
+              "value": "{Colors.System Ramps.Foreground Greys.White}",
+              "type": "color",
+              "parent": "Brand/Jottacloud",
+              "description": ""
+            },
+            "Text Hover": {
+              "value": "{Colors.System Ramps.Foreground Greys.White}",
+              "type": "color",
+              "parent": "Brand/Jottacloud",
+              "description": ""
+            },
+            "Text Pressed": {
+              "value": "{Colors.System Ramps.Foreground Greys.White}",
+              "type": "color",
+              "parent": "Brand/Jottacloud"
+            },
+            "Outline Default": {
+              "value": "#8f72f1",
+              "type": "color",
+              "parent": "Brand/Jottacloud"
+            },
+            "Outline Hover": {
+              "value": "#7b60d7",
+              "type": "color",
+              "parent": "Brand/Jottacloud"
+            },
+            "Outline Pressed": {
+              "value": "#9b7efe",
+              "type": "color",
+              "parent": "Brand/Jottacloud"
+            }
           }
         },
-        "Navigation": {
-          "Desktop": {
+        "Desktop": {
+          "Navigation": {
             "ForeG": {
               "Default": {
                 "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
@@ -872,8 +977,10 @@
                 "description": ""
               }
             }
-          },
-          "Mobile": {
+          }
+        },
+        "Mobile": {
+          "Navigation": {
             "Header": {
               "Text": {
                 "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
@@ -1051,79 +1158,7 @@
               }
             }
           }
-        },
-        "Primary Buttons": {
-          "Branded Primary Default": {
-            "value": "#8f72f1",
-            "type": "color",
-            "parent": "Brand/Jottacloud",
-            "description": ""
-          },
-          "Branded Primary Hover": {
-            "value": "#7b60d7",
-            "type": "color",
-            "parent": "Brand/Jottacloud",
-            "description": ""
-          },
-          "Branded Primary Pressed": {
-            "value": "#9b7efe",
-            "type": "color",
-            "parent": "Brand/Jottacloud",
-            "description": ""
-          },
-          "Text Default": {
-            "value": "{Colors.System Ramps.Foreground Greys.White}",
-            "type": "color",
-            "parent": "Brand/Jottacloud",
-            "description": ""
-          },
-          "Text Hover": {
-            "value": "{Colors.System Ramps.Foreground Greys.White}",
-            "type": "color",
-            "parent": "Brand/Jottacloud",
-            "description": ""
-          }
         }
-      }
-    }
-  },
-  "Website": {
-    "Paid Signup custom": {
-      "Background fill Radio": {
-        "value": "#CABCFB",
-        "type": "color"
-      },
-      "Stroke Radio": {
-        "value": "#7D5FE6",
-        "type": "color"
-      },
-      "Radio button": {
-        "value": "#7D5FE6",
-        "type": "color"
-      },
-      "DiscountTagBackground": {
-        "value": "#7D5FE6",
-        "type": "color"
-      },
-      "SummaryCard": {
-        "value": "#BEC2AE",
-        "type": "color"
-      },
-      "Divider": {
-        "value": "#6A6D54",
-        "type": "color"
-      },
-      "Background": {
-        "value": "#E8EBDE",
-        "type": "color"
-      },
-      "CTA": {
-        "value": "#C86A28",
-        "type": "color"
-      },
-      "Link": {
-        "value": "#C86A28",
-        "type": "color"
       }
     }
   }

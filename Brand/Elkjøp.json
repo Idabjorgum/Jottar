@@ -366,8 +366,8 @@
     },
     "Branded Ramps": {
       "LM": {
-        "Navigation": {
-          "Desktop": {
+        "Desktop": {
+          "Navigation": {
             "BackG": {
               "Title bar": {
                 "value": "#eff4ff",
@@ -498,8 +498,10 @@
                 "description": ""
               }
             }
-          },
-          "Mobile": {
+          }
+        },
+        "Mobile": {
+          "Navigation": {
             "Android": {
               "Bottom Bar": {
                 "Text Default": {
@@ -690,58 +692,160 @@
             "type": "color",
             "parent": "Brand/Elkjop",
             "description": ""
+          },
+          "Primary Button": {
+            "Fill Default": {
+              "value": "#78bf26",
+              "type": "color",
+              "parent": "Brand/Elkjop"
+            },
+            "Fill Hover": {
+              "value": "#6aaa21",
+              "type": "color",
+              "parent": "Brand/Elkjop"
+            },
+            "Fill Pressed": {
+              "value": "#83d02b",
+              "type": "color",
+              "parent": "Brand/Elkjop"
+            },
+            "Text Default": {
+              "value": "#041752",
+              "type": "color",
+              "parent": "Brand/Elkjop",
+              "description": ""
+            },
+            "Text Hover": {
+              "value": "#041752",
+              "type": "color",
+              "parent": "Brand/Elkjop",
+              "description": ""
+            },
+            "Text Pressed": {
+              "value": "#041752",
+              "type": "color",
+              "parent": "Brand/Elkjop"
+            },
+            "Outline Default": {
+              "value": "#78bf26",
+              "type": "color"
+            },
+            "Outline Hover": {
+              "value": "#6aaa21",
+              "type": "color"
+            },
+            "Outline Pressed": {
+              "value": "#83d02b",
+              "type": "color"
+            }
           }
         },
-        "Primary Buttons": {
-          "Branded Primary Default": {
-            "value": "#78bf26",
-            "type": "color",
-            "parent": "Brand/Elkjop",
-            "description": ""
-          },
-          "Branded Primary Hover": {
-            "value": "#6aaa21",
-            "type": "color",
-            "parent": "Brand/Elkjop",
-            "description": ""
-          },
-          "Branded Primary Pressed": {
-            "value": "#83d02b",
-            "type": "color",
-            "parent": "Brand/Elkjop",
-            "description": ""
-          },
-          "Text Default": {
-            "value": "#041752",
-            "type": "color",
-            "parent": "Brand/Elkjop",
-            "description": ""
-          },
-          "Text Hover": {
-            "value": "#041752",
-            "type": "color",
-            "parent": "Brand/Elkjop",
-            "description": ""
+        "Website": {
+          "Paid Signup custom": {
+            "Background fill Radio": {
+              "value": "{Colors.System Ramps.Blues.Blue 100}",
+              "type": "color"
+            },
+            "Stroke Radio": {
+              "value": "{Colors.System Ramps.Blues.Blue 600}",
+              "type": "color"
+            },
+            "Radio button": {
+              "value": "{Colors.System Ramps.Blues.Blue 600}",
+              "type": "color"
+            },
+            "Discount Tag Background": {
+              "value": "{Colors.System Ramps.Blues.Blue 600}",
+              "type": "color"
+            },
+            "Summary Card": {
+              "value": "{Colors.System Ramps.Background Whites.White 7}",
+              "type": "color"
+            },
+            "Divider": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
+              "type": "color"
+            },
+            "Background": {
+              "value": "{Colors.System Ramps.Background Whites.White 3}",
+              "type": "color"
+            },
+            "CTA": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+              "type": "color"
+            },
+            "Link": {
+              "value": "{Colors.System Ramps.Blues.Blue 600}",
+              "type": "color"
+            }
           }
         }
       },
       "DM": {
         "Elements": {
           "Folders": {
-            "value": "#6187e1",
+            "value": "#D9DCDF",
             "type": "color",
-            "parent": "Brand/Elkjop",
-            "description": ""
+            "parent": "Brand/Elkjop"
           },
           "Logo": {
             "value": "#78bf26",
             "type": "color",
             "parent": "Brand/Elkjop",
             "description": ""
+          },
+          "Primary Button": {
+            "Fill Default": {
+              "value": "#78bf26",
+              "type": "color",
+              "parent": "Brand/Elkjop"
+            },
+            "Fill Hover": {
+              "value": "#6aaa21",
+              "type": "color",
+              "parent": "Brand/Elkjop"
+            },
+            "Fill Pressed": {
+              "value": "#83d02b",
+              "type": "color",
+              "parent": "Brand/Elkjop"
+            },
+            "Text Default": {
+              "value": "#041752",
+              "type": "color",
+              "parent": "Brand/Elkjop",
+              "description": ""
+            },
+            "Text Hover": {
+              "value": "#041752",
+              "type": "color",
+              "parent": "Brand/Elkjop",
+              "description": ""
+            },
+            "Text Pressed": {
+              "value": "#041752",
+              "type": "color",
+              "parent": "Brand/Elkjop"
+            },
+            "Outline Default": {
+              "value": "#78bf26",
+              "type": "color",
+              "parent": "Brand/Elkjop"
+            },
+            "Outline Hover": {
+              "value": "#6aaa21",
+              "type": "color",
+              "parent": "Brand/Elkjop"
+            },
+            "Outline Pressed": {
+              "value": "#83d02b",
+              "type": "color",
+              "parent": "Brand/Elkjop"
+            }
           }
         },
-        "Navigation": {
-          "Desktop": {
+        "Desktop": {
+          "Navigation": {
             "ForeG": {
               "Default": {
                 "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
@@ -872,8 +976,10 @@
                 "description": ""
               }
             }
-          },
-          "Mobile": {
+          }
+        },
+        "Mobile": {
+          "Navigation": {
             "Header": {
               "Text": {
                 "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
@@ -1051,79 +1157,7 @@
               }
             }
           }
-        },
-        "Primary Buttons": {
-          "Branded Primary Default": {
-            "value": "#78bf26",
-            "type": "color",
-            "parent": "Brand/Elkjop",
-            "description": ""
-          },
-          "Branded Primary Hover": {
-            "value": "#6aaa21",
-            "type": "color",
-            "parent": "Brand/Elkjop",
-            "description": ""
-          },
-          "Branded Primary Pressed": {
-            "value": "#83d02b",
-            "type": "color",
-            "parent": "Brand/Elkjop",
-            "description": ""
-          },
-          "Text Default": {
-            "value": "#041752",
-            "type": "color",
-            "parent": "Brand/Elkjop",
-            "description": ""
-          },
-          "Text Hover": {
-            "value": "#041752",
-            "type": "color",
-            "parent": "Brand/Elkjop",
-            "description": ""
-          }
         }
-      }
-    }
-  },
-  "Website": {
-    "Paid Signup custom": {
-      "Background fill Radio": {
-        "value": "{Colors.System Ramps.Blues.Blue 100}",
-        "type": "color"
-      },
-      "Stroke Radio": {
-        "value": "{Colors.System Ramps.Blues.Blue 600}",
-        "type": "color"
-      },
-      "Radio button": {
-        "value": "{Colors.System Ramps.Blues.Blue 600}",
-        "type": "color"
-      },
-      "DiscountTagBackground": {
-        "value": "{Colors.System Ramps.Blues.Blue 600}",
-        "type": "color"
-      },
-      "SummaryCard": {
-        "value": "{Colors.System Ramps.Background Whites.White 7}",
-        "type": "color"
-      },
-      "Divider": {
-        "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
-        "type": "color"
-      },
-      "Background": {
-        "value": "{Colors.System Ramps.Background Whites.White 3}",
-        "type": "color"
-      },
-      "CTA": {
-        "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
-        "type": "color"
-      },
-      "Link": {
-        "value": "{Colors.System Ramps.Blues.Blue 600}",
-        "type": "color"
       }
     }
   }

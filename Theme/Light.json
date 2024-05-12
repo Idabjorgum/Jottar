@@ -138,112 +138,176 @@
     "Buttons": {
       "Primary": {
         "Fill Default": {
-          "value": "{Colors.Branded Ramps.LM.Primary Buttons.Branded Primary Default}",
+          "value": "{Colors.Branded Ramps.LM.Elements.Primary Button.Fill Default}",
           "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
+          "parent": "Theme/Light mode"
         },
-        "Fill On hover": {
-          "value": "{Colors.Branded Ramps.LM.Primary Buttons.Branded Primary Hover}",
+        "Fill Hover": {
+          "value": "{Colors.Branded Ramps.LM.Elements.Primary Button.Fill Hover}",
           "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
+          "parent": "Theme/Light mode"
         },
         "Fill Pressed": {
-          "value": "{Colors.Branded Ramps.LM.Primary Buttons.Branded Primary Pressed}",
+          "value": "{Colors.Branded Ramps.LM.Elements.Primary Button.Fill Pressed}",
           "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
+          "parent": "Theme/Light mode"
         },
-        "Text": {
-          "value": "{Colors.Branded Ramps.LM.Primary Buttons.Text Default}",
+        "Text Default": {
+          "value": "{Colors.Branded Ramps.LM.Elements.Primary Button.Text Default}",
           "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
+          "parent": "Theme/Light mode"
         },
-        "Text On hover": {
-          "value": "{Colors.Branded Ramps.LM.Primary Buttons.Text Hover}",
+        "Text Hover": {
+          "value": "{Colors.Branded Ramps.LM.Elements.Primary Button.Text Hover}",
           "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
+          "parent": "Theme/Light mode"
+        },
+        "Text Pressed": {
+          "value": "{Colors.Branded Ramps.LM.Elements.Primary Button.Text Pressed}",
+          "type": "color",
+          "parent": "Theme/Light mode"
+        },
+        "Outline Default": {
+          "value": "#",
+          "type": "color"
+        },
+        "Outline Hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "Outline Pressed": {
+          "value": "#",
+          "type": "color"
         }
       },
       "Secondary": {
-        "Text Default": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
-          "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
-        },
         "Fill Default": {
           "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
+        "Fill Hover": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
+          "type": "color",
+          "parent": "Theme/Light mode"
+        },
         "Fill Pressed": {
           "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
-        "Fill On hover": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
-          "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
-        },
-        "Outline Pressed": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 6}",
-          "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
-        },
-        "Text On hover": {
-          "value": "{Colors.System Ramps.Foreground Greys.Black}",
-          "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
-        }
-      },
-      "Destructive": {
-        "Text": {
-          "value": "{Colors.System Ramps.Foreground Greys.White}",
-          "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
-        },
-        "Surface Default": {
-          "value": "{Colors.System Ramps.Reds.Red 500}",
-          "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
-        },
-        "Surface On hover": {
-          "value": "{Colors.System Ramps.Reds.Red 600}",
-          "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
-        },
-        "Surface Pressed": {
-          "value": "{Colors.System Ramps.Reds.Red 400}",
-          "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
-        }
-      },
-      "Tertiary": {
         "Text Default": {
           "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
+        "Text Hover": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+          "type": "color",
+          "parent": "Theme/Light mode"
+        },
+        "Text Pressed": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+          "type": "color",
+          "parent": "Theme/Light mode"
+        },
+        "Outline Default": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
+          "type": "color",
+          "parent": "Theme/Light mode"
+        },
+        "Outline Hover": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
+          "type": "color",
+          "parent": "Theme/Light mode"
+        },
+        "Outline Pressed": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
+          "type": "color",
+          "parent": "Theme/Light mode"
+        }
+      },
+      "Destructive": {
+        "Fill Default": {
+          "value": "{Colors.System Ramps.Reds.Red 500}",
+          "type": "color",
+          "parent": "Theme/Light mode"
+        },
+        "Fill Hover": {
+          "value": "{Colors.System Ramps.Reds.Red 600}",
+          "type": "color",
+          "parent": "Theme/Light mode"
+        },
+        "Fill Pressed": {
+          "value": "{Colors.System Ramps.Reds.Red 400}",
+          "type": "color",
+          "parent": "Theme/Light mode"
+        },
+        "Text Default": {
+          "value": "{Colors.System Ramps.Foreground Greys.White}",
+          "type": "color",
+          "parent": "Theme/Light mode"
+        },
+        "Text Hover": {
+          "value": "{Colors.System Ramps.Foreground Greys.White}",
+          "type": "color",
+          "parent": "Theme/Light mode"
+        },
+        "Text Pressed": {
+          "value": "#fff",
+          "type": "color",
+          "parent": "Theme/Light mode"
+        },
+        "Outline Default": {
+          "value": "{Colors.System Ramps.Reds.Red 500}",
+          "type": "color",
+          "parent": "Theme/Light mode"
+        },
+        "Outline Hover": {
+          "value": "{Colors.System Ramps.Reds.Red 600}",
+          "type": "color",
+          "parent": "Theme/Light mode"
+        },
+        "Outline Pressed": {
+          "value": "{Colors.System Ramps.Reds.Red 400}",
+          "type": "color",
+          "parent": "Theme/Light mode"
+        }
+      },
+      "Outline": {
+        "Fill Default": {
+          "value": "rgba(0,0,0,0)",
+          "type": "color"
+        },
+        "Fill Hover": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
+          "type": "color",
+          "parent": "Theme/Light mode"
+        },
         "Fill Pressed": {
           "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
+        },
+        "Text Default": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+          "type": "color",
+          "parent": "Theme/Light mode",
+          "description": ""
+        },
+        "Text Hover": {
+          "value": "{Colors.System Ramps.Foreground Greys.Black}",
+          "type": "color",
+          "parent": "Theme/Light mode"
+        },
+        "Text Pressed": {
+          "value": "{Colors.System Ramps.Foreground Greys.Black}",
+          "type": "color",
+          "parent": "Theme/Light mode"
         },
         "Outline Default": {
           "value": "{Colors.System Ramps.Foreground Greys.Grey 5}",
@@ -251,43 +315,27 @@
           "parent": "Theme/Light mode",
           "description": ""
         },
-        "Fill On hover": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
-          "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
-        },
-        "Outline On hover": {
+        "Outline Hover": {
           "value": "{Colors.System Ramps.Foreground Greys.Grey 6}",
           "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
+          "parent": "Theme/Light mode"
         },
         "Outline Pressed": {
           "value": "{Colors.System Ramps.Foreground Greys.Grey 4}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
-        },
-        "Text On hover": {
-          "value": "{Colors.System Ramps.Foreground Greys.Black}",
-          "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
         }
       },
       "Ghost": {
-        "Text Default": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
-          "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
+        "Fill Default": {
+          "value": "rgba(0,0,0,0)",
+          "type": "color"
         },
-        "Fill On hover": {
+        "Fill Hover": {
           "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
           "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
+          "parent": "Theme/Light mode"
         },
         "Fill Pressed": {
           "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
@@ -295,11 +343,35 @@
           "parent": "Theme/Light mode",
           "description": ""
         },
-        "Text On hover": {
-          "value": "{Colors.System Ramps.Foreground Greys.Black}",
+        "Text Default": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
+        },
+        "Text Hover": {
+          "value": "{Colors.System Ramps.Foreground Greys.Black}",
+          "type": "color",
+          "parent": "Theme/Light mode"
+        },
+        "Text Pressed": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+          "type": "color",
+          "parent": "Theme/Light mode"
+        },
+        "Outline Default": {
+          "value": "rgba(0,0,0,0)",
+          "type": "color"
+        },
+        "Outline Hover": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
+          "type": "color",
+          "parent": "Theme/Light mode"
+        },
+        "Outline Pressed": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
+          "type": "color",
+          "parent": "Theme/Light mode"
         }
       }
     },
@@ -330,11 +402,10 @@
         "parent": "Theme/Light mode",
         "description": ""
       },
-      "Pressed Pressed": {
+      "Pressed": {
         "value": "{Colors.System Ramps.Blues.Blue 700}",
         "type": "color",
-        "parent": "Theme/Light mode",
-        "description": ""
+        "parent": "Theme/Light mode"
       },
       "On hover blue": {
         "value": "{Colors.System Ramps.Blues.Blue 400}",
@@ -384,59 +455,59 @@
       "description": ""
     }
   },
-  "Navigation": {
-    "Desktop": {
+  "Desktop": {
+    "Navigation": {
       "Foreground": {
         "Default": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.ForeG.Default}",
+          "value": "{Colors.Branded Ramps.LM.Desktop.Navigation.ForeG.Default}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Hover": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.ForeG.Hover}",
+          "value": "{Colors.Branded Ramps.LM.Desktop.Navigation.ForeG.Hover}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Badge Pressed": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.ForeG.Badge Pressed}",
+          "value": "{Colors.Branded Ramps.LM.Desktop.Navigation.ForeG.Badge Pressed}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Transfer Button": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.ForeG.Transfer Button}",
+          "value": "{Colors.Branded Ramps.LM.Desktop.Navigation.ForeG.Transfer Button}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Pressed": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.ForeG.Pressed}",
+          "value": "{Colors.Branded Ramps.LM.Desktop.Navigation.ForeG.Pressed}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Badge Hover": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.ForeG.Badge Hover}",
+          "value": "{Colors.Branded Ramps.LM.Desktop.Navigation.ForeG.Badge Hover}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Transfer Button Hover": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.ForeG.Transfer Button Hover}",
+          "value": "{Colors.Branded Ramps.LM.Desktop.Navigation.ForeG.Transfer Button Hover}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Transfer Button Pressed": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.ForeG.Transfer Button Pressed}",
+          "value": "{Colors.Branded Ramps.LM.Desktop.Navigation.ForeG.Transfer Button Pressed}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Give Feedback Pressed": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.ForeG.Give Feedback Pressed}",
+          "value": "{Colors.Branded Ramps.LM.Desktop.Navigation.ForeG.Give Feedback Pressed}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
@@ -451,119 +522,121 @@
       },
       "Background": {
         "Title bar": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Title bar}",
+          "value": "{Colors.Branded Ramps.LM.Desktop.Navigation.BackG.Title bar}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Title bar Button Hover": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Title bar Button Hover}",
+          "value": "{Colors.Branded Ramps.LM.Desktop.Navigation.BackG.Title bar Button Hover}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Sidebar": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Sidebar}",
+          "value": "{Colors.Branded Ramps.LM.Desktop.Navigation.BackG.Sidebar}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Sidebar Button Hover": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Sidebar Button Hover}",
+          "value": "{Colors.Branded Ramps.LM.Desktop.Navigation.BackG.Sidebar Button Hover}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Transfer button": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Transfer Button Default}",
+          "value": "{Colors.Branded Ramps.LM.Desktop.Navigation.BackG.Transfer Button Default}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Badge": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Badge Default}",
+          "value": "{Colors.Branded Ramps.LM.Desktop.Navigation.BackG.Badge Default}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Sidebar Button Pressed": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Sidebar Button Pressed}",
+          "value": "{Colors.Branded Ramps.LM.Desktop.Navigation.BackG.Sidebar Button Pressed}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Title bar Button Pressed": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Title bar Button Pressed}",
+          "value": "{Colors.Branded Ramps.LM.Desktop.Navigation.BackG.Title bar Button Pressed}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Transfer button Hover": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Transfer Button Hover}",
+          "value": "{Colors.Branded Ramps.LM.Desktop.Navigation.BackG.Transfer Button Hover}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Transfer button Pressed": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Transfer Button Pressed}",
+          "value": "{Colors.Branded Ramps.LM.Desktop.Navigation.BackG.Transfer Button Pressed}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Badge Hover": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Badge Hover}",
+          "value": "{Colors.Branded Ramps.LM.Desktop.Navigation.BackG.Badge Hover}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Badge Pressed": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Desktop.BackG.Badge Pressed}",
+          "value": "{Colors.Branded Ramps.LM.Desktop.Navigation.BackG.Badge Pressed}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         }
       }
-    },
-    "Mobile": {
+    }
+  },
+  "Mobile": {
+    "Navigation": {
       "Header": {
         "Background": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Header.Background}",
+          "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.Header.Background}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Text": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Header.Text}",
+          "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.Header.Text}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Icon": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Header.Icon}",
+          "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.Header.Icon}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Outline Badge": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Header.Outline badge}",
+          "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.Header.Outline badge}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Fill Badge": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Header.Fill badge}",
+          "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.Header.Fill badge}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Text Badge": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Header.Text Badge}",
+          "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.Header.Text Badge}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
         },
         "Text Native": {
-          "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Header.Text Native}",
+          "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.Header.Text Native}",
           "type": "color",
           "parent": "Theme/Light mode",
           "description": ""
@@ -572,13 +645,13 @@
       "Android": {
         "Sub Tabs": {
           "Foreground Default": {
-            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Android.Sub Tabs.Foreground Default}",
+            "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.Android.Sub Tabs.Foreground Default}",
             "type": "color",
             "parent": "Theme/Light mode",
             "description": ""
           },
           "Foreground Pressed": {
-            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Android.Sub Tabs.Foreground Pressed}",
+            "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.Android.Sub Tabs.Foreground Pressed}",
             "type": "color",
             "parent": "Theme/Light mode",
             "description": ""
@@ -586,37 +659,37 @@
         },
         "Bottom Bar": {
           "Text Default": {
-            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Android.Bottom Bar.Text Default}",
+            "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.Android.Bottom Bar.Text Default}",
             "type": "color",
             "parent": "Theme/Light mode",
             "description": ""
           },
           "Text Pressed": {
-            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Android.Bottom Bar.Text Pressed}",
+            "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.Android.Bottom Bar.Text Pressed}",
             "type": "color",
             "parent": "Theme/Light mode",
             "description": ""
           },
           "Icon Pressed": {
-            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Android.Bottom Bar.Icon Pressed}",
+            "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.Android.Bottom Bar.Icon Pressed}",
             "type": "color",
             "parent": "Theme/Light mode",
             "description": ""
           },
           "Backgorund Button Pressed": {
-            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Android.Bottom Bar.Background Button Pressed}",
+            "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.Android.Bottom Bar.Background Button Pressed}",
             "type": "color",
             "parent": "Theme/Light mode",
             "description": ""
           },
           "Background": {
-            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Android.Bottom Bar.Background}",
+            "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.Android.Bottom Bar.Background}",
             "type": "color",
             "parent": "Theme/Light mode",
             "description": ""
           },
           "Divider": {
-            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.Android.Bottom Bar.Divider}",
+            "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.Android.Bottom Bar.Divider}",
             "type": "color",
             "parent": "Theme/Light mode",
             "description": ""
@@ -626,37 +699,37 @@
       "iOS": {
         "Bottom Bar": {
           "Text Default": {
-            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Bottom Bar.Text Default}",
+            "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.iOS.Bottom Bar.Text Default}",
             "type": "color",
             "parent": "Theme/Light mode",
             "description": ""
           },
           "Text Pressed": {
-            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Bottom Bar.Text Pressed}",
+            "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.iOS.Bottom Bar.Text Pressed}",
             "type": "color",
             "parent": "Theme/Light mode",
             "description": ""
           },
           "Icon Pressed": {
-            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Bottom Bar.Icon Pressed}",
+            "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.iOS.Bottom Bar.Icon Pressed}",
             "type": "color",
             "parent": "Theme/Light mode",
             "description": ""
           },
           "Icon Default": {
-            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Bottom Bar.Icon Default}",
+            "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.iOS.Bottom Bar.Icon Default}",
             "type": "color",
             "parent": "Theme/Light mode",
             "description": ""
           },
           "Background": {
-            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Bottom Bar.Background}",
+            "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.iOS.Bottom Bar.Background}",
             "type": "color",
             "parent": "Theme/Light mode",
             "description": ""
           },
           "Divider": {
-            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Bottom Bar.Divider}",
+            "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.iOS.Bottom Bar.Divider}",
             "type": "color",
             "parent": "Theme/Light mode",
             "description": ""
@@ -664,37 +737,37 @@
         },
         "Sub Tabs": {
           "Background": {
-            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Sub Tabs.Background}",
+            "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.iOS.Sub Tabs.Background}",
             "type": "color",
             "parent": "Theme/Light mode",
             "description": ""
           },
           "Text Default": {
-            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Sub Tabs.Text Default}",
+            "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.iOS.Sub Tabs.Text Default}",
             "type": "color",
             "parent": "Theme/Light mode",
             "description": ""
           },
           "Text Pressed": {
-            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Sub Tabs.Text Pressed}",
+            "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.iOS.Sub Tabs.Text Pressed}",
             "type": "color",
             "parent": "Theme/Light mode",
             "description": ""
           },
           "Outline Tab Button Pressed": {
-            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Sub Tabs.Outline Tab Button Pressed}",
+            "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.iOS.Sub Tabs.Outline Tab Button Pressed}",
             "type": "color",
             "parent": "Theme/Light mode",
             "description": ""
           },
           "Fill Tab Button Pressed": {
-            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Sub Tabs.Fill Tab Button Pressed}",
+            "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.iOS.Sub Tabs.Fill Tab Button Pressed}",
             "type": "color",
             "parent": "Theme/Light mode",
             "description": ""
           },
           "Divider": {
-            "value": "{Colors.Branded Ramps.LM.Navigation.Mobile.iOS.Sub Tabs.Divider}",
+            "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.iOS.Sub Tabs.Divider}",
             "type": "color",
             "parent": "Theme/Light mode",
             "description": ""
@@ -735,7 +808,7 @@
       "description": ""
     }
   },
-  "Generic": {
+  "Black and white": {
     "Always White": {
       "value": "{Colors.System Ramps.Foreground Greys.White}",
       "type": "color",
@@ -765,94 +838,6 @@
       "type": "color",
       "parent": "Theme/Light mode",
       "description": ""
-    }
-  },
-  "Jotta ONLY elements": {
-    "Purple": {
-      "1": {
-        "value": "#343056",
-        "type": "color",
-        "parent": "Theme/Light mode",
-        "description": ""
-      },
-      "2": {
-        "value": "#3e3b6d",
-        "type": "color",
-        "parent": "Theme/Light mode",
-        "description": ""
-      },
-      "5": {
-        "value": "#aa95f4",
-        "type": "color",
-        "parent": "Theme/Light mode",
-        "description": ""
-      },
-      "6": {
-        "value": "#cabcfb",
-        "type": "color",
-        "parent": "Theme/Light mode",
-        "description": ""
-      },
-      "4 Dark mode": {
-        "value": "#8f72f2",
-        "type": "color",
-        "parent": "Theme/Light mode",
-        "description": ""
-      },
-      "3 Main": {
-        "value": "#7d5fe6",
-        "type": "color",
-        "parent": "Theme/Light mode",
-        "description": ""
-      }
-    },
-    "BrownGreen": {
-      "1": {
-        "value": "#6a6d54",
-        "type": "color",
-        "parent": "Theme/Light mode",
-        "description": ""
-      },
-      "2": {
-        "value": "#bec2ae",
-        "type": "color",
-        "parent": "Theme/Light mode",
-        "description": ""
-      },
-      "3": {
-        "value": "#e8ebde",
-        "type": "color",
-        "parent": "Theme/Light mode",
-        "description": ""
-      }
-    },
-    "Orange": {
-      "2": {
-        "value": "#c86a28",
-        "type": "color",
-        "parent": "Theme/Light mode",
-        "description": ""
-      },
-      "1 Links": {
-        "value": "#ac470f",
-        "type": "color",
-        "parent": "Theme/Light mode",
-        "description": ""
-      }
-    },
-    "BlackWhite": {
-      "Black": {
-        "value": "#252521",
-        "type": "color",
-        "parent": "Theme/Light mode",
-        "description": ""
-      },
-      "White": {
-        "value": "#ffffff",
-        "type": "color",
-        "parent": "Theme/Light mode",
-        "description": ""
-      }
     }
   },
   "fontFamilies": {
@@ -1614,39 +1599,39 @@
   "Website": {
     "Paid Signup custom": {
       "Stroke Radio": {
-        "value": "{Website.Paid Signup custom.Stroke Radio}",
+        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Stroke Radio}",
         "type": "color"
       },
       "Background fill Radio": {
-        "value": "{Website.Paid Signup custom.Background fill Radio}",
+        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Background fill Radio}",
         "type": "color"
       },
       "Radio button": {
-        "value": "{Website.Paid Signup custom.Radio button}",
+        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Radio button}",
         "type": "color"
       },
-      "DiscountTagBackground": {
-        "value": "{Website.Paid Signup custom.DiscountTagBackground}",
+      "Discount Tag Background": {
+        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Discount Tag Background}",
         "type": "color"
       },
       "Divider": {
-        "value": "{Website.Paid Signup custom.Divider}",
+        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Divider}",
         "type": "color"
       },
       "Background": {
-        "value": "{Website.Paid Signup custom.Background}",
+        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Background}",
         "type": "color"
       },
       "CTA": {
-        "value": "{Website.Paid Signup custom.CTA}",
+        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA}",
         "type": "color"
       },
       "Link": {
-        "value": "{Website.Paid Signup custom.Link}",
+        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Link}",
         "type": "color"
       },
-      "SummaryCard": {
-        "value": "{Website.Paid Signup custom.SummaryCard}",
+      "Summary Card": {
+        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Summary Card}",
         "type": "color"
       }
     }
