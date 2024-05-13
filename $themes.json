@@ -181,7 +181,6 @@
       "Mobile.Navigation.iOS.Sub Tabs.Fill Tab Button Pressed": "5616ef3a001a766a3947165bbf93780c7f91cda0",
       "Mobile.Navigation.iOS.Sub Tabs.Divider": "528e8975c38176ebc7a541b88ea8289de2f6091a",
       "Elements.Context menu": "d0a2c52baf61c52a280c1fdf15ad57dcb36030f0",
-      "Elements.Folders and File icons": "ddf0478c0ddc8e0edec2f309f1035cb25f9be6c7",
       "Elements.Modal": "2b2189cc4c379943fd35bba686b7806787f4eedd",
       "Elements.Divider": "1ef7cadcd9fd04d27ccbcafcce88d781fa3928ec",
       "Elements.Logo": "60bdfa353cc6e6fbeab375394a40005c3246a309",
@@ -208,7 +207,8 @@
       "Website.Paid Signup custom.CTA.Text Pressed": "3d334cb1ae71a35623e43a7099549f66d8399a3d",
       "Website.Paid Signup custom.CTA.Outline Default": "e100fe738d6b6f56e6d19018b23698f131cf9508",
       "Website.Paid Signup custom.CTA.Outline Hover": "194bd511eb4bb7821f7e8dc58bf0c29b13353791",
-      "Website.Paid Signup custom.CTA.Outline Pressed": "e7f66a93c1e6992100d0eb2ff34a8ad311f9b432"
+      "Website.Paid Signup custom.CTA.Outline Pressed": "e7f66a93c1e6992100d0eb2ff34a8ad311f9b432",
+      "Elements.Folder icons": "ddf0478c0ddc8e0edec2f309f1035cb25f9be6c7"
     },
     "group": "Theme"
   },
@@ -351,7 +351,6 @@
       "Mobile.Navigation.iOS.Sub Tabs.Fill Tab Button Pressed": "5616ef3a001a766a3947165bbf93780c7f91cda0",
       "Mobile.Navigation.iOS.Sub Tabs.Divider": "528e8975c38176ebc7a541b88ea8289de2f6091a",
       "Elements.Context menu": "d0a2c52baf61c52a280c1fdf15ad57dcb36030f0",
-      "Elements.Folders and File icons": "ddf0478c0ddc8e0edec2f309f1035cb25f9be6c7",
       "Elements.Modal": "2b2189cc4c379943fd35bba686b7806787f4eedd",
       "Elements.Divider": "1ef7cadcd9fd04d27ccbcafcce88d781fa3928ec",
       "Elements.Logo": "60bdfa353cc6e6fbeab375394a40005c3246a309",
@@ -377,7 +376,8 @@
       "Website.Paid Signup custom.CTA.Text Pressed": "3d334cb1ae71a35623e43a7099549f66d8399a3d",
       "Website.Paid Signup custom.CTA.Outline Default": "e100fe738d6b6f56e6d19018b23698f131cf9508",
       "Website.Paid Signup custom.CTA.Outline Hover": "194bd511eb4bb7821f7e8dc58bf0c29b13353791",
-      "Website.Paid Signup custom.CTA.Outline Pressed": "e7f66a93c1e6992100d0eb2ff34a8ad311f9b432"
+      "Website.Paid Signup custom.CTA.Outline Pressed": "e7f66a93c1e6992100d0eb2ff34a8ad311f9b432",
+      "Elements.Folder icons": "ddf0478c0ddc8e0edec2f309f1035cb25f9be6c7"
     },
     "group": "Theme"
   },

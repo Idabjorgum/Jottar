@@ -783,11 +783,10 @@
       "parent": "Theme/Light mode",
       "description": ""
     },
-    "Folders and File icons": {
+    "Folder icons": {
       "value": "{Colors.Branded Ramps.LM.Elements.Folders}",
       "type": "color",
-      "parent": "Theme/Light mode",
-      "description": ""
+      "parent": "Theme/Light mode"
     },
     "Modal": {
       "value": "{Colors.System Ramps.Background Whites.White 1}",

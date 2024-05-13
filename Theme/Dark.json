@@ -775,11 +775,10 @@
       "parent": "Theme/Dark mode",
       "description": ""
     },
-    "Folders and File icons": {
+    "Folder icons": {
       "value": "{Colors.Branded Ramps.DM.Elements.Folders}",
       "type": "color",
-      "parent": "Theme/Dark mode",
-      "description": ""
+      "parent": "Theme/Dark mode"
     },
     "Modal": {
       "value": "{Colors.System Ramps.Background Blacks.Black 4}",
