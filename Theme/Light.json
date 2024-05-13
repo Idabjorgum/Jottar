@@ -808,7 +808,7 @@
       "description": ""
     },
     "Control element": {
-      "value": "{Colors.Branded Ramps.LM.Elements.Control element}",
+      "value": "{Colors.System Ramps.Blues.Blue 500}",
       "type": "color"
     }
   },

@@ -800,7 +800,7 @@
       "description": ""
     },
     "Control element": {
-      "value": "{Colors.Branded Ramps.DM.Elements.Control element}",
+      "value": "{Colors.System Ramps.Blues.Blue 400}",
       "type": "color"
     }
   },
