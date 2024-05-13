@@ -168,15 +168,15 @@
           "parent": "Theme/Light mode"
         },
         "Outline Default": {
-          "value": "#",
+          "value": "{Colors.Branded Ramps.LM.Elements.Primary Button.Outline Default}",
           "type": "color"
         },
         "Outline Hover": {
-          "value": "#",
+          "value": "{Colors.Branded Ramps.LM.Elements.Primary Button.Outline Hover}",
           "type": "color"
         },
         "Outline Pressed": {
-          "value": "#",
+          "value": "{Colors.Branded Ramps.LM.Elements.Primary Button.Outline Pressed}",
           "type": "color"
         }
       },

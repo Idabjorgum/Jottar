@@ -731,11 +731,11 @@
               "type": "color"
             },
             "Outline Hover": {
-              "value": "#",
+              "value": "#5e40c9",
               "type": "color"
             },
             "Outline Pressed": {
-              "value": "#",
+              "value": "#8f72f1",
               "type": "color"
             }
           }
