@@ -1,56 +1,6 @@
 {
   "Colors": {
     "System Ramps": {
-      "Greens": {
-        "Green 100": {
-          "value": "#e6fff6",
-          "type": "color",
-          "parent": "Brand/Mediamarkt",
-          "description": "Never reference this in your files directly. Please use tokens instead."
-        },
-        "Green 200": {
-          "value": "#8af2cd",
-          "type": "color",
-          "parent": "Brand/Mediamarkt",
-          "description": "Never reference this in your files directly. Please use tokens instead."
-        },
-        "Green 300": {
-          "value": "#60d9ae",
-          "type": "color",
-          "parent": "Brand/Mediamarkt",
-          "description": "Never reference this in your files directly. Please use tokens instead."
-        },
-        "Green 400": {
-          "value": "#45c296",
-          "type": "color",
-          "parent": "Brand/Mediamarkt",
-          "description": "Never reference this in your files directly. Please use tokens instead."
-        },
-        "Green 500": {
-          "value": "#018556",
-          "type": "color",
-          "parent": "Brand/Mediamarkt",
-          "description": "Never reference this in your files directly. Please use tokens instead."
-        },
-        "Green 600": {
-          "value": "#00734a",
-          "type": "color",
-          "parent": "Brand/Mediamarkt",
-          "description": "Never reference this in your files directly. Please use tokens instead."
-        },
-        "Green 700": {
-          "value": "#025e3d",
-          "type": "color",
-          "parent": "Brand/Mediamarkt",
-          "description": "Never reference this in your files directly. Please use tokens instead."
-        },
-        "Green 800": {
-          "value": "#003b26",
-          "type": "color",
-          "parent": "Brand/Mediamarkt",
-          "description": "Never reference this in your files directly. Please use tokens instead."
-        }
-      },
       "Yellows": {
         "Yellow 100": {
           "value": "#faf4d9",
@@ -360,6 +310,56 @@
           "value": "#000000",
           "type": "color",
           "parent": "Brand/Mediamarkt",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        }
+      },
+      "Greens": {
+        "Green 100": {
+          "value": "#D4F7F0",
+          "type": "color",
+          "parent": "Brand/Jottacloud",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Green 200": {
+          "value": "#9EE2DB",
+          "type": "color",
+          "parent": "Brand/Jottacloud",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Green 300": {
+          "value": "#5EB2AA",
+          "type": "color",
+          "parent": "Brand/Jottacloud",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Green 400": {
+          "value": "#329086",
+          "type": "color",
+          "parent": "Brand/Jottacloud",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Green 500": {
+          "value": "#1E7C72",
+          "type": "color",
+          "parent": "Brand/Jottacloud",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Green 600": {
+          "value": "#00685E",
+          "type": "color",
+          "parent": "Brand/Jottacloud",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Green 700": {
+          "value": "#04584E",
+          "type": "color",
+          "parent": "Brand/Jottacloud",
+          "description": "Never reference this in your files directly. Please use tokens instead."
+        },
+        "Green 800": {
+          "value": "#014942",
+          "type": "color",
+          "parent": "Brand/Jottacloud",
           "description": "Never reference this in your files directly. Please use tokens instead."
         }
       }

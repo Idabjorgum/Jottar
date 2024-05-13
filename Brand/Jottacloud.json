@@ -3,49 +3,49 @@
     "System Ramps": {
       "Greens": {
         "Green 100": {
-          "value": "#e6fff6",
+          "value": "#D4F7F0",
           "type": "color",
           "parent": "Brand/Jottacloud",
           "description": "Never reference this in your files directly. Please use tokens instead."
         },
         "Green 200": {
-          "value": "#8af2cd",
+          "value": "#9EE2DB",
           "type": "color",
           "parent": "Brand/Jottacloud",
           "description": "Never reference this in your files directly. Please use tokens instead."
         },
         "Green 300": {
-          "value": "#60d9ae",
+          "value": "#5EB2AA",
           "type": "color",
           "parent": "Brand/Jottacloud",
           "description": "Never reference this in your files directly. Please use tokens instead."
         },
         "Green 400": {
-          "value": "#45c296",
+          "value": "#329086",
           "type": "color",
           "parent": "Brand/Jottacloud",
           "description": "Never reference this in your files directly. Please use tokens instead."
         },
         "Green 500": {
-          "value": "#018556",
+          "value": "#1E7C72",
           "type": "color",
           "parent": "Brand/Jottacloud",
           "description": "Never reference this in your files directly. Please use tokens instead."
         },
         "Green 600": {
-          "value": "#00734a",
+          "value": "#00685E",
           "type": "color",
           "parent": "Brand/Jottacloud",
           "description": "Never reference this in your files directly. Please use tokens instead."
         },
         "Green 700": {
-          "value": "#025e3d",
+          "value": "#04584E",
           "type": "color",
           "parent": "Brand/Jottacloud",
           "description": "Never reference this in your files directly. Please use tokens instead."
         },
         "Green 800": {
-          "value": "#003b26",
+          "value": "#014942",
           "type": "color",
           "parent": "Brand/Jottacloud",
           "description": "Never reference this in your files directly. Please use tokens instead."
