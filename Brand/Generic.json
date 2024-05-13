@@ -431,15 +431,15 @@
               "type": "color"
             },
             "Stroke Radio": {
-              "value": "{Colors.Branded Ramps.LM.Elements.Control element}",
+              "value": "{Colors.System Ramps.Blues.Blue 500}",
               "type": "color"
             },
             "Radio button": {
-              "value": "{Colors.Branded Ramps.LM.Elements.Control element}",
+              "value": "{Colors.System Ramps.Blues.Blue 500}",
               "type": "color"
             },
             "Discount Tag Background": {
-              "value": "{Colors.Branded Ramps.LM.Elements.Control element}",
+              "value": "{Colors.System Ramps.Blues.Blue 500}",
               "type": "color"
             },
             "Summary Card": {
