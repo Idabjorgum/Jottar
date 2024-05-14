@@ -368,12 +368,12 @@
       "LM": {
         "Elements": {
           "Folders": {
-            "value": "#29003E",
+            "value": "#030F1C",
             "type": "color",
             "parent": "Brand/Mediamarkt"
           },
           "Logo": {
-            "value": "#B525FF",
+            "value": "#030F1C",
             "type": "color",
             "parent": "Brand/Mediamarkt"
           },
@@ -515,7 +515,7 @@
             "parent": "Brand/Mediamarkt"
           },
           "Logo": {
-            "value": "#B525FF",
+            "value": "#D9DCDF",
             "type": "color",
             "parent": "Brand/Mediamarkt"
           },
