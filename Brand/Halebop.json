@@ -453,7 +453,7 @@
               "type": "color"
             },
             "Link": {
-              "value": "{Interactive Content.Text link.Default blue}",
+              "value": "{Colors.System Ramps.Blues.Blue 600}",
               "type": "color"
             },
             "CTA": {

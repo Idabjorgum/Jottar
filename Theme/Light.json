@@ -513,10 +513,9 @@
           "description": ""
         },
         "OutlineDefault": {
-          "value": "{Border.Light base}",
+          "value": "{Background.Grey 2}",
           "type": "color",
           "parent": "Theme/Light",
-          "description": "",
           "oldValue": "{Border.Light base}"
         }
       },
