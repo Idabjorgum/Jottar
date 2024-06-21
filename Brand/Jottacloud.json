@@ -742,32 +742,44 @@
         },
         "Website": {
           "Paid Signup custom": {
-            "Background fill Radio": {
-              "value": "#EDE7FF",
+            "Background left": {
+              "value": "{Colors.System Ramps.Background Whites.White 1}",
               "type": "color"
             },
-            "Stroke Radio": {
-              "value": "#7D5FE6",
+            "Background right": {
+              "value": "#F0F1E8",
+              "type": "color"
+            },
+            "Background logo icon": {
+              "value": "#F0F1E8",
+              "type": "color"
+            },
+            "Progress indicator": {
+              "value": "{Colors.Branded Ramps.LM.Elements.Logo}",
+              "type": "color"
+            },
+            "Subtext summary": {
+              "value": "#6A6D55",
               "type": "color"
             },
             "Radio button": {
-              "value": "#7D5FE6",
+              "value": "{Colors.Branded Ramps.LM.Elements.Logo}",
               "type": "color"
             },
-            "Discount Tag Background": {
-              "value": "#7D5FE6",
+            "Radio button background": {
+              "value": "{Colors.Branded Ramps.LM.Elements.Logo}",
               "type": "color"
             },
-            "Summary Card": {
-              "value": "#BEC2AE",
+            "Radio button stroke hover": {
+              "value": "{Colors.Branded Ramps.LM.Elements.Logo}",
+              "type": "color"
+            },
+            "Radio button background hover": {
+              "value": "{Background.Grey 1}",
               "type": "color"
             },
             "Divider": {
               "value": "#6A6D54",
-              "type": "color"
-            },
-            "Background": {
-              "value": "#E8EBDE",
               "type": "color"
             },
             "Link": {

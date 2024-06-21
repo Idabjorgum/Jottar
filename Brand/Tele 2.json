@@ -426,36 +426,48 @@
         },
         "Website": {
           "Paid Signup custom": {
-            "Background fill Radio": {
-              "value": "{Colors.System Ramps.Blues.Blue 100}",
+            "Background left": {
+              "value": "{Colors.System Ramps.Background Whites.White 1}",
               "type": "color"
             },
-            "Stroke Radio": {
-              "value": "{Colors.System Ramps.Blues.Blue 500}",
+            "Background right": {
+              "value": "{Background.Grey 2}",
+              "type": "color"
+            },
+            "Background logo icon": {
+              "value": "{Background.Grey 2}",
+              "type": "color"
+            },
+            "Progress indicator": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+              "type": "color"
+            },
+            "Subtext summary": {
+              "value": "{Background.Grey 3}",
               "type": "color"
             },
             "Radio button": {
               "value": "{Colors.System Ramps.Blues.Blue 500}",
               "type": "color"
             },
-            "Discount Tag Background": {
+            "Radio button background": {
               "value": "{Colors.System Ramps.Blues.Blue 500}",
               "type": "color"
             },
-            "Summary Card": {
-              "value": "{Colors.System Ramps.Background Whites.White 7}",
+            "Radio button background hover": {
+              "value": "{Background.Grey 1}",
+              "type": "color"
+            },
+            "Radio button stroke hover": {
+              "value": "{Colors.System Ramps.Blues.Blue 500}",
               "type": "color"
             },
             "Divider": {
-              "value": "{Colors.System Ramps.Foreground Greys.Grey 4}",
-              "type": "color"
-            },
-            "Background": {
-              "value": "{Colors.System Ramps.Background Whites.White 3}",
+              "value": "{Border.Light base}",
               "type": "color"
             },
             "Link": {
-              "value": "{Colors.System Ramps.Blues.Blue 600}",
+              "value": "{Interactive Content.Text link.Default blue}",
               "type": "color"
             },
             "CTA": {

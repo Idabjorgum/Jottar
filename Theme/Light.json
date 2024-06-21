@@ -1600,73 +1600,81 @@
   },
   "Website": {
     "Paid Signup custom": {
-      "Stroke Radio": {
-        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Stroke Radio}",
+      "Background left": {
+        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Background left}",
         "type": "color"
       },
-      "Background fill Radio": {
-        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Background fill Radio}",
+      "Background right": {
+        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Background right}",
+        "type": "color"
+      },
+      "Background logo icon": {
+        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Background logo icon}",
+        "type": "color"
+      },
+      "Progress indicator": {
+        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Progress indicator}",
+        "type": "color"
+      },
+      "Subtext summary": {
+        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Subtext summary}",
         "type": "color"
       },
       "Radio button": {
         "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Radio button}",
         "type": "color"
       },
-      "Discount Tag Background": {
-        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Discount Tag Background}",
+      "Radio button background": {
+        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Radio button background}",
         "type": "color"
       },
-      "Divider": {
-        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Divider}",
+      "Radio button background hover": {
+        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Radio button background hover}",
         "type": "color"
       },
-      "Background": {
-        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Background}",
+      "Radio button stroke hover": {
+        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Radio button stroke hover}",
         "type": "color"
       },
       "Link": {
-        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Link}",
-        "type": "color"
-      },
-      "Summary Card": {
-        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Summary Card}",
+        "value": "{Interactive Content.Text link.Default blue}",
         "type": "color"
       },
       "CTA": {
         "Fill Default": {
-          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Fill Default}",
+          "value": "#C86A28",
           "type": "color"
         },
         "Fill Hover": {
-          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Fill Hover}",
+          "value": "#bd6627",
           "type": "color"
         },
         "Fill Pressed": {
-          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Fill Pressed}",
+          "value": "#ad5e26",
           "type": "color"
         },
         "Text Default": {
-          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Text Default}",
+          "value": "{Colors.System Ramps.Foreground Greys.White}",
           "type": "color"
         },
         "Text Hover": {
-          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Text Hover}",
+          "value": "{Colors.System Ramps.Foreground Greys.White}",
           "type": "color"
         },
         "Text Pressed": {
-          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Text Pressed}",
+          "value": "{Colors.System Ramps.Foreground Greys.White}",
           "type": "color"
         },
         "Outline Default": {
-          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Outline Default}",
+          "value": "#C86A28",
           "type": "color"
         },
         "Outline Hover": {
-          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Outline Hover}",
+          "value": "#bd6627",
           "type": "color"
         },
         "Outline Pressed": {
-          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Outline Pressed}",
+          "value": "#ad5e26",
           "type": "color"
         }
       }
