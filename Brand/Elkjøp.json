@@ -779,11 +779,11 @@
               "type": "color"
             },
             "Divider": {
-              "value": "{Border.Light base}",
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
               "type": "color"
             },
             "Link": {
-              "value": "{Interactive Content.Text link.Default blue}",
+              "value": "{Colors.System Ramps.Blues.Blue 600}",
               "type": "color"
             },
             "CTA": {

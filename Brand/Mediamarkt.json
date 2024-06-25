@@ -750,7 +750,7 @@
               "type": "color"
             },
             "Background logo icon": {
-              "value": "{Background.Grey 2}",
+              "value": "{Colors.System Ramps.Background Whites.White 1}",
               "type": "color"
             },
             "Progress indicator": {
@@ -758,7 +758,7 @@
               "type": "color"
             },
             "Subtext summary": {
-              "value": "{Background.Grey 3}",
+              "value": "{Foreground.Grey 3}",
               "type": "color"
             },
             "Radio button": {
@@ -778,11 +778,11 @@
               "type": "color"
             },
             "Divider": {
-              "value": "{Border.Light base}",
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
               "type": "color"
             },
             "Link": {
-              "value": "{Interactive Content.Text link.Default blue}",
+              "value": "{Colors.System Ramps.Blues.Blue 600}",
               "type": "color"
             },
             "CTA": {

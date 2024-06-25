@@ -770,12 +770,12 @@
               "value": "{Colors.Branded Ramps.LM.Elements.Logo}",
               "type": "color"
             },
-            "Radio button stroke hover": {
-              "value": "{Colors.Branded Ramps.LM.Elements.Logo}",
-              "type": "color"
-            },
             "Radio button background hover": {
               "value": "{Background.Grey 1}",
+              "type": "color"
+            },
+            "Radio button stroke hover": {
+              "value": "{Colors.Branded Ramps.LM.Elements.Logo}",
               "type": "color"
             },
             "Divider": {

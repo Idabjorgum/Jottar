@@ -1636,21 +1636,25 @@
         "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Radio button stroke hover}",
         "type": "color"
       },
+      "Divider": {
+        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Divider}",
+        "type": "color"
+      },
       "Link": {
-        "value": "{Interactive Content.Text link.Default blue}",
+        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Link}",
         "type": "color"
       },
       "CTA": {
         "Fill Default": {
-          "value": "#C86A28",
+          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Fill Default}",
           "type": "color"
         },
         "Fill Hover": {
-          "value": "#bd6627",
+          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Fill Hover}",
           "type": "color"
         },
         "Fill Pressed": {
-          "value": "#ad5e26",
+          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Fill Pressed}",
           "type": "color"
         },
         "Text Default": {
@@ -1666,15 +1670,15 @@
           "type": "color"
         },
         "Outline Default": {
-          "value": "#C86A28",
+          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Outline Default}",
           "type": "color"
         },
         "Outline Hover": {
-          "value": "#bd6627",
+          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Outline Hover}",
           "type": "color"
         },
         "Outline Pressed": {
-          "value": "#ad5e26",
+          "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.CTA.Outline Pressed}",
           "type": "color"
         }
       }
