@@ -431,7 +431,7 @@
               "type": "color"
             },
             "Background right": {
-              "value": "{Background.Grey 2}",
+              "value": "{Colors.System Ramps.Background Whites.White 2}",
               "type": "color"
             },
             "Background logo icon": {
@@ -443,7 +443,7 @@
               "type": "color"
             },
             "Subtext summary": {
-              "value": "{Foreground.Grey 3}",
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 7}",
               "type": "color"
             },
             "Radio button": {
@@ -455,7 +455,7 @@
               "type": "color"
             },
             "Radio button background hover": {
-              "value": "{Background.Grey 1}",
+              "value": "{Colors.System Ramps.Background Whites.White 2}",
               "type": "color"
             },
             "Radio button stroke hover": {
