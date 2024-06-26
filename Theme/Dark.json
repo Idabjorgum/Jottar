@@ -848,10 +848,6 @@
         "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Background logo icon}",
         "type": "color"
       },
-      "Progress indicator": {
-        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Progress indicator}",
-        "type": "color"
-      },
       "Subtext summary": {
         "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Subtext summary}",
         "type": "color"

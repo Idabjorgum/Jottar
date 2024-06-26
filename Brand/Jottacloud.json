@@ -754,10 +754,6 @@
               "value": "#F0F1E8",
               "type": "color"
             },
-            "Progress indicator": {
-              "value": "{Colors.Branded Ramps.LM.Elements.Logo}",
-              "type": "color"
-            },
             "Subtext summary": {
               "value": "#6A6D55",
               "type": "color"

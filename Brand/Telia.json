@@ -754,10 +754,6 @@
               "value": "{Colors.System Ramps.Background Whites.White 1}",
               "type": "color"
             },
-            "Progress indicator": {
-              "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
-              "type": "color"
-            },
             "Subtext summary": {
               "value": "{Colors.System Ramps.Foreground Greys.Grey 7}",
               "type": "color"
