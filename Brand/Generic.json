@@ -517,6 +517,138 @@
               }
             }
           }
+        },
+        "Desktop": {
+          "Navigation": {
+            "BackG": {
+              "Title bar": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Sidebar Button Hover": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Sidebar Button Pressed": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Sidebar": {
+                "value": "{Colors.System Ramps.Foreground Greys.White}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Title bar Button Hover": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Badge Default": {
+                "value": "{Colors.System Ramps.Foreground Greys.White}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Transfer Button Default": {
+                "value": "{Colors.System Ramps.Foreground Greys.White}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Badge Pressed": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 4}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt"
+              },
+              "Badge Hover": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Transfer Button Hover": {
+                "value": "{Colors.System Ramps.Foreground Greys.White}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Transfer Button Pressed": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Title bar Button Pressed": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              }
+            },
+            "ForeG": {
+              "Default": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 8}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Hover": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Badge Hover": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 4}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt"
+              },
+              "Transfer Button": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Pressed": {
+                "value": "{Colors.System Ramps.Foreground Greys.White}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Badge Pressed": {
+                "value": "{Colors.System Ramps.Foreground Greys.White}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Transfer Button Hover": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Transfer Button Pressed": {
+                "value": "{Colors.System Ramps.Foreground Greys.White}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Give Feedback Pressed": {
+                "value": "{Colors.System Ramps.Foreground Greys.Black}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              }
+            }
+          }
         }
       },
       "DM": {
@@ -579,6 +711,138 @@
               "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
               "type": "color",
               "parent": "Brand/Mediamarkt"
+            }
+          }
+        },
+        "Desktop": {
+          "Navigation": {
+            "ForeG": {
+              "Default": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Hover": {
+                "value": "{Colors.System Ramps.Foreground Greys.White}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Badge Hover": {
+                "value": "{Colors.System Ramps.Foreground Greys.White}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Transfer Button": {
+                "value": "{Colors.System Ramps.Foreground Greys.White}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Pressed": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Badge Pressed": {
+                "value": "{Colors.System Ramps.Foreground Greys.White}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Transfer Button Hover": {
+                "value": "{Colors.System Ramps.Foreground Greys.White}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Transfer Button Pressed": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Give Feedback Pressed": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              }
+            },
+            "BackG": {
+              "Title bar": {
+                "value": "{Colors.System Ramps.Background Blacks.Black 2}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Title bar Button Hover": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 6}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Sidebar": {
+                "value": "{Colors.System Ramps.Background Blacks.Black 3}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Sidebar Button Hover": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 8}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Sidebar Button Pressed": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Badge Pressed": {
+                "value": "{Colors.System Ramps.Background Blacks.Black 4}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt"
+              },
+              "Transfer Button Default": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 9}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Badge Default": {
+                "value": "{Colors.System Ramps.Background Blacks.Black 3}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt"
+              },
+              "Badge Hover": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 9}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Transfer Button Hover": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 8}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Transfer Button Pressed": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              },
+              "Title bar Button Pressed": {
+                "value": "{Colors.System Ramps.Foreground Greys.Grey 7}",
+                "type": "color",
+                "parent": "Brand/Mediamarkt",
+                "description": ""
+              }
             }
           }
         }
