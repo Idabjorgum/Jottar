@@ -355,7 +355,7 @@
           "description": "Never reference this in your files directly. Please use tokens instead."
         },
         "Grey 10": {
-          "value": "#2d2f32",
+          "value": "#2D2F32",
           "type": "color",
           "parent": "Brand/Jottacloud",
           "description": "Never reference this in your files directly. Please use tokens instead."
