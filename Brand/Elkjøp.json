@@ -196,6 +196,10 @@
         }
       },
       "Background Whites": {
+        "Transparent": {
+          "value": "rgba(0,0,0,0)",
+          "type": "color"
+        },
         "White 1": {
           "value": "#ffffff",
           "type": "color",
@@ -747,7 +751,7 @@
               "type": "color"
             },
             "Background right": {
-              "value": "{Colors.System Ramps.Background Whites.White 2}",
+              "value": "{Colors.System Ramps.Background Whites.White 3}",
               "type": "color"
             },
             "Background logo icon": {

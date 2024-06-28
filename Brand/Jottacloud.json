@@ -246,6 +246,10 @@
         }
       },
       "Background Whites": {
+        "Transparent": {
+          "value": "rgba(0,0,0,0)",
+          "type": "color"
+        },
         "White 1": {
           "value": "#ffffff",
           "type": "color",
