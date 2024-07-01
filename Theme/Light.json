@@ -512,7 +512,7 @@
           "description": ""
         },
         "OutlineDefault": {
-          "value": "{Background.Grey 2}",
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
           "type": "color",
           "parent": "Theme/Light",
           "oldValue": "{Border.Light base}"
