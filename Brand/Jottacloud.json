@@ -825,6 +825,22 @@
               }
             }
           }
+        },
+        "Web": {
+          "Upgrade": {
+            "Background": {
+              "value": "#F3F2F8",
+              "type": "color"
+            },
+            "Tab selection line": {
+              "value": "#744FF6",
+              "type": "color"
+            },
+            "Text Highlight": {
+              "value": "#744FF6",
+              "type": "color"
+            }
+          }
         }
       },
       "DM": {

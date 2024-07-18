@@ -179,56 +179,6 @@
           "type": "color"
         }
       },
-      "Secondary": {
-        "Fill Default": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
-          "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
-        },
-        "Fill Hover": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
-          "type": "color",
-          "parent": "Theme/Light mode"
-        },
-        "Fill Pressed": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
-          "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
-        },
-        "Text Default": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
-          "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
-        },
-        "Text Hover": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
-          "type": "color",
-          "parent": "Theme/Light mode"
-        },
-        "Text Pressed": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
-          "type": "color",
-          "parent": "Theme/Light mode"
-        },
-        "Outline Default": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
-          "type": "color",
-          "parent": "Theme/Light mode"
-        },
-        "Outline Hover": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
-          "type": "color",
-          "parent": "Theme/Light mode"
-        },
-        "Outline Pressed": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
-          "type": "color",
-          "parent": "Theme/Light mode"
-        }
-      },
       "Destructive": {
         "Fill Default": {
           "value": "{Colors.System Ramps.Reds.Red 500}",
@@ -371,6 +321,55 @@
           "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
           "type": "color",
           "parent": "Theme/Light mode"
+        }
+      },
+      "Black to white": {
+        "Fill Default": {
+          "value": "{Colors.System Ramps.Foreground Greys.White}",
+          "type": "color",
+          "parent": "Brand/Mediamarkt"
+        },
+        "Fill Hover": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
+          "type": "color",
+          "parent": "Brand/Mediamarkt"
+        },
+        "Fill Pressed": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
+          "type": "color",
+          "parent": "Brand/Mediamarkt"
+        },
+        "Text Default": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+          "type": "color",
+          "parent": "Brand/Mediamarkt",
+          "description": ""
+        },
+        "Text Hover": {
+          "value": "{Colors.System Ramps.Foreground Greys.Black}",
+          "type": "color",
+          "parent": "Brand/Mediamarkt",
+          "description": ""
+        },
+        "Text Pressed": {
+          "value": "{Colors.System Ramps.Foreground Greys.Black}",
+          "type": "color",
+          "parent": "Brand/Mediamarkt"
+        },
+        "Outline Default": {
+          "value": "{Colors.System Ramps.Foreground Greys.White}",
+          "type": "color",
+          "parent": "Brand/Mediamarkt"
+        },
+        "Outline Hover": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
+          "type": "color",
+          "parent": "Brand/Mediamarkt"
+        },
+        "Outline Pressed": {
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
+          "type": "color",
+          "parent": "Brand/Mediamarkt"
         }
       }
     },
@@ -962,5 +961,21 @@
   "size28": {
     "value": "28",
     "type": "fontSizes"
+  },
+  "Web": {
+    "Upgrade": {
+      "Background": {
+        "value": "{Colors.Branded Ramps.LM.Web.Upgrade.Background}",
+        "type": "color"
+      },
+      "Tab selection line": {
+        "value": "{Colors.Branded Ramps.LM.Web.Upgrade.Tab selection line}",
+        "type": "color"
+      },
+      "Text highlight": {
+        "value": "{Colors.Branded Ramps.LM.Web.Upgrade.Text Highlight}",
+        "type": "color"
+      }
+    }
   }
 }

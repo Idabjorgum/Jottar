@@ -517,6 +517,22 @@
               }
             }
           }
+        },
+        "Web": {
+          "Upgrade": {
+            "Background": {
+              "value": "{Colors.System Ramps.Background Whites.White 3}",
+              "type": "color"
+            },
+            "Tab selection line": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+              "type": "color"
+            },
+            "Text Highlight": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+              "type": "color"
+            }
+          }
         }
       },
       "DM": {
