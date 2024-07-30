@@ -976,6 +976,16 @@
         "value": "{Colors.Branded Ramps.LM.Web.Upgrade.Text Highlight}",
         "type": "color"
       }
+    },
+    "Header": {
+      "Background": {
+        "value": "{Colors.Branded Ramps.LM.Web.Header.Background}",
+        "type": "color"
+      },
+      "Foreground": {
+        "value": "{Foreground.Primary}",
+        "type": "color"
+      }
     }
   }
 }

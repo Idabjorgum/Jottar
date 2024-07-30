@@ -530,6 +530,12 @@
               "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
               "type": "color"
             }
+          },
+          "Header": {
+            "Background": {
+              "value": "rgba(255,255,255,0)",
+              "type": "color"
+            }
           }
         }
       },
@@ -586,6 +592,14 @@
             },
             "Outline Pressed": {
               "value": "#54720F",
+              "type": "color"
+            }
+          }
+        },
+        "Web": {
+          "Header": {
+            "Background": {
+              "value": "rgba(0,0,0,0)",
               "type": "color"
             }
           }

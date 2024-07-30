@@ -840,6 +840,12 @@
               "value": "#744FF6",
               "type": "color"
             }
+          },
+          "Header": {
+            "Background": {
+              "value": "rgba(255,255,255,0)",
+              "type": "color"
+            }
           }
         }
       },
@@ -1218,6 +1224,14 @@
                   "description": ""
                 }
               }
+            }
+          }
+        },
+        "Web": {
+          "Header": {
+            "Background": {
+              "value": "rgba(0,0,0,0)",
+              "type": "color"
             }
           }
         }

@@ -914,5 +914,17 @@
         }
       }
     }
+  },
+  "Web": {
+    "Header": {
+      "Background": {
+        "value": "{Colors.Branded Ramps.DM.Web.Header.Background}",
+        "type": "color"
+      },
+      "Foreground": {
+        "value": "{Foreground.Primary}",
+        "type": "color"
+      }
+    }
   }
 }

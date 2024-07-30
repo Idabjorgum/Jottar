@@ -847,6 +847,12 @@
               "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
               "type": "color"
             }
+          },
+          "Header": {
+            "Background": {
+              "value": "#DF0000",
+              "type": "color"
+            }
           }
         }
       },
@@ -1223,6 +1229,14 @@
                   "description": ""
                 }
               }
+            }
+          }
+        },
+        "Web": {
+          "Header": {
+            "Background": {
+              "value": "#DF0000",
+              "type": "color"
             }
           }
         }
