@@ -980,10 +980,9 @@
             },
             "BackG": {
               "Title bar": {
-                "value": "{Colors.System Ramps.Background Blacks.Black 2}",
+                "value": "{Colors.System Ramps.Background Blacks.Black 3}",
                 "type": "color",
-                "parent": "Brand/Elkjop",
-                "description": ""
+                "parent": "Brand/Elkjop"
               },
               "Title bar Button Hover": {
                 "value": "{Colors.System Ramps.Foreground Greys.Grey 6}",

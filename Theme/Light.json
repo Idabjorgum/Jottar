@@ -325,49 +325,47 @@
       },
       "Black to white": {
         "Fill Default": {
-          "value": "{Colors.System Ramps.Foreground Greys.White}",
+          "value": "{Colors.System Ramps.Foreground Greys.Black}",
           "type": "color",
           "parent": "Brand/Mediamarkt"
         },
         "Fill Hover": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 9}",
           "type": "color",
           "parent": "Brand/Mediamarkt"
         },
         "Fill Pressed": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
           "type": "color",
           "parent": "Brand/Mediamarkt"
         },
         "Text Default": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
-          "type": "color",
-          "parent": "Brand/Mediamarkt",
-          "description": ""
-        },
-        "Text Hover": {
-          "value": "{Colors.System Ramps.Foreground Greys.Black}",
-          "type": "color",
-          "parent": "Brand/Mediamarkt",
-          "description": ""
-        },
-        "Text Pressed": {
-          "value": "{Colors.System Ramps.Foreground Greys.Black}",
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
           "type": "color",
           "parent": "Brand/Mediamarkt"
         },
-        "Outline Default": {
+        "Text Hover": {
           "value": "{Colors.System Ramps.Foreground Greys.White}",
           "type": "color",
           "parent": "Brand/Mediamarkt"
         },
+        "Text Pressed": {
+          "value": "{Colors.System Ramps.Foreground Greys.White}",
+          "type": "color",
+          "parent": "Brand/Mediamarkt"
+        },
+        "Outline Default": {
+          "value": "{Colors.System Ramps.Foreground Greys.Black}",
+          "type": "color",
+          "parent": "Brand/Mediamarkt"
+        },
         "Outline Hover": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 3}",
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 9}",
           "type": "color",
           "parent": "Brand/Mediamarkt"
         },
         "Outline Pressed": {
-          "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
+          "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
           "type": "color",
           "parent": "Brand/Mediamarkt"
         }

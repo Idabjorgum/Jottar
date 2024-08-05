@@ -374,40 +374,34 @@
           "Navigation": {
             "BackG": {
               "Title bar": {
-                "value": "#f5f1fc",
+                "value": "#F4F1FE",
                 "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
+                "parent": "Brand/Jottacloud"
               },
               "Sidebar Button Hover": {
-                "value": "#f7f4ff",
+                "value": "rgba(52,48,86,0.1)",
                 "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
+                "parent": "Brand/Jottacloud"
               },
               "Sidebar Button Pressed": {
-                "value": "#e3dbff",
+                "value": "#343056",
                 "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
+                "parent": "Brand/Jottacloud"
               },
               "Sidebar": {
-                "value": "{Colors.System Ramps.Foreground Greys.White}",
+                "value": "#F4F1FE",
                 "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
+                "parent": "Brand/Jottacloud"
               },
               "Title bar Button Hover": {
-                "value": "#e3dbff",
+                "value": "rgba(52,48,86,0.1)",
                 "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
+                "parent": "Brand/Jottacloud"
               },
               "Badge Default": {
-                "value": "{Colors.System Ramps.Foreground Greys.White}",
+                "value": "#F4F1FE",
                 "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
+                "parent": "Brand/Jottacloud"
               },
               "Transfer Button Default": {
                 "value": "{Colors.System Ramps.Foreground Greys.White}",
@@ -440,10 +434,9 @@
                 "description": ""
               },
               "Title bar Button Pressed": {
-                "value": "#d0c2ff",
+                "value": "#3E3B6D",
                 "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
+                "parent": "Brand/Jottacloud"
               }
             },
             "ForeG": {
@@ -454,10 +447,14 @@
                 "description": ""
               },
               "Hover": {
-                "value": "#3e3b6d",
+                "value": "#343056",
                 "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
+                "parent": "Brand/Jottacloud"
+              },
+              "Pressed": {
+                "value": "{Colors.System Ramps.Foreground Greys.White}",
+                "type": "color",
+                "parent": "Brand/Jottacloud"
               },
               "Badge Hover": {
                 "value": "#5e40c9",
@@ -467,12 +464,6 @@
               },
               "Transfer Button": {
                 "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
-                "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
-              },
-              "Pressed": {
-                "value": "#3e3b6d",
                 "type": "color",
                 "parent": "Brand/Jottacloud",
                 "description": ""
@@ -973,10 +964,9 @@
             },
             "BackG": {
               "Title bar": {
-                "value": "{Colors.System Ramps.Background Blacks.Black 2}",
+                "value": "{Colors.System Ramps.Background Blacks.Black 3}",
                 "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
+                "parent": "Brand/Jottacloud"
               },
               "Title bar Button Hover": {
                 "value": "{Colors.System Ramps.Foreground Greys.Grey 6}",

@@ -282,7 +282,7 @@
       "Large": {
         "value": {
           "fontFamily": "{inter}",
-          "fontWeight": "{Bold}",
+          "fontWeight": "{SemiBold}",
           "lineHeight": "{lh20}",
           "fontSize": "{size20}",
           "letterSpacing": "{letterSpacingNone}",
@@ -297,7 +297,7 @@
       "Medium": {
         "value": {
           "fontFamily": "{inter}",
-          "fontWeight": "{Bold}",
+          "fontWeight": "{SemiBold}",
           "lineHeight": "{lh16}",
           "fontSize": "{size16}",
           "letterSpacing": "{letterSpacingNone}",
@@ -326,7 +326,7 @@
       "Small": {
         "value": {
           "fontFamily": "{inter}",
-          "fontWeight": "{Bold}",
+          "fontWeight": "{SemiBold}",
           "lineHeight": "{lh16}",
           "fontSize": "{size14}",
           "letterSpacing": "{letterSpacingNone}",
@@ -747,5 +747,9 @@
   "lowercase": {
     "value": "lowercase",
     "type": "textCase"
+  },
+  "SemiBold": {
+    "value": "600",
+    "type": "fontWeights"
   }
 }
