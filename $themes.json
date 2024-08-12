@@ -35,16 +35,16 @@
       "Platform Type.Body.Large Short": "S:bf51b1063d97d3e85e8fe2497a1bcc5a2997ff40,",
       "Platform Type.Body.Medium Long": "S:e915e014aa42c3d86c8e37b51124b699efe85d3c,",
       "Platform Type.Body.Medium Short": "S:8a8b07de5e03bf7e214e603566c0dbaf32061a7b,",
-      "Platform Type.Body.Small Long": "S:725ed9433a6d688218bf10dd769eafd37a67c246,",
       "Platform Type.Body.Small Short": "S:bba421ef6ad8c2f2b181ed4e22cffd426b7e0a7a,",
       "Platform Type.Label.Large": "S:d422f2cd323d256b0fe7117144374d2f46aa9c50,",
       "Platform Type.Label.Medium": "S:c246305e327bb5c7662987ff9403bdd965331fc6,",
       "Platform Type.Label.Medium Fat": "S:463001d5e9d23d13dea1891ade2bbb0d564ba6a2,",
       "Platform Type.Label.Small": "S:7660f3fba0da0d030c46c1a5fe2c8fb47245cda1,",
-      "Platform Type.Link.Medium": "S:9a1d4490f0f07bfdc59f52bd9a1bb5dc95b1eb3d,",
-      "Platform Type.Link.Medium Bold": "S:aee5509dde75d66a711fbf7894198a23a1cc0d3f,",
       "Platform Type.Link.Small": "S:e1f46d5d32c365a2c82f5a90af6e84543decb2cc,",
-      "Platform Type.Link.Small Bold": "S:f746a1a1a2f9da5003b6e31ff0f570c74201646b,"
+      "Platform Type.Link.DELETE": "S:aee5509dde75d66a711fbf7894198a23a1cc0d3f,",
+      "Platform Type.Link.DELETE small": "S:f746a1a1a2f9da5003b6e31ff0f570c74201646b,",
+      "Platform Type.Link.Medium": "S:9a1d4490f0f07bfdc59f52bd9a1bb5dc95b1eb3d,",
+      "Platform Type.Body.Small Long": "S:725ed9433a6d688218bf10dd769eafd37a67c246,"
     },
     "selectedTokenSets": {
       "Theme/Light": "enabled"
@@ -474,9 +474,9 @@
       "Colors.Branded Ramps.LM.Desktop.Navigation.BackG.Title bar Button Pressed": "dca5edf0b32aacdb778112d26ba7b3636f7610a9",
       "Colors.Branded Ramps.LM.Desktop.Navigation.ForeG.Default": "10d6fdb4a1c531276619c544df747d188fc9b996",
       "Colors.Branded Ramps.LM.Desktop.Navigation.ForeG.Hover": "30fafa8575e4514053a31a0741fd89444c90ff0d",
+      "Colors.Branded Ramps.LM.Desktop.Navigation.ForeG.Pressed": "972fe79c6c360e7b87cb438365a0d14e6f689139",
       "Colors.Branded Ramps.LM.Desktop.Navigation.ForeG.Badge Hover": "70ba450d2e8a7861f3611e7f0e9ee04af0840ee9",
       "Colors.Branded Ramps.LM.Desktop.Navigation.ForeG.Transfer Button": "e7c32bd08faf02d09c593329ee040dec1ad68bba",
-      "Colors.Branded Ramps.LM.Desktop.Navigation.ForeG.Pressed": "972fe79c6c360e7b87cb438365a0d14e6f689139",
       "Colors.Branded Ramps.LM.Desktop.Navigation.ForeG.Badge Pressed": "64a874b01da516eccabac1631821b80177ed5ede",
       "Colors.Branded Ramps.LM.Desktop.Navigation.ForeG.Transfer Button Hover": "e0cb5ca46bb91cbb8cec9288790c1910080dbb69",
       "Colors.Branded Ramps.LM.Desktop.Navigation.ForeG.Transfer Button Pressed": "394899cef42b0d26bdc8fba090ef5bdf50d7bb20",
@@ -541,6 +541,7 @@
       "Colors.Branded Ramps.LM.Web.Upgrade.Background": "6dba783d94e38b51701fafa0bef44a3372d3e86f",
       "Colors.Branded Ramps.LM.Web.Upgrade.Tab selection line": "8cb2053b4dc2961e2d4eb686a6dfe1971129712f",
       "Colors.Branded Ramps.LM.Web.Upgrade.Text Highlight": "c067c0e7d13a2e078914cfc1c105a0e151d6e169",
+      "Colors.Branded Ramps.LM.Web.Header.Background": "22e6c72b7b9d8fe2f656c86e870e189a4b028401",
       "Colors.Branded Ramps.DM.Elements.Folders": "4e1789930b5f17636f8801e279a317e715c68273",
       "Colors.Branded Ramps.DM.Elements.Logo": "662d64a901244f6433ada9a54be26982b5e4a4ed",
       "Colors.Branded Ramps.DM.Elements.Primary Button.Fill Default": "06881d9078c1275a51b388dc527c7cbee3c4bc01",
@@ -600,7 +601,6 @@
       "Colors.Branded Ramps.DM.Mobile.Navigation.iOS.Sub Tabs.Fill Tab Button Pressed": "2868ab2820c734f06ff85b4e75f28c471c89392b",
       "Colors.Branded Ramps.DM.Mobile.Navigation.iOS.Sub Tabs.Background": "3a9ae28d7b4942927cad0afec33d218a73fc3d63",
       "Colors.Branded Ramps.DM.Mobile.Navigation.iOS.Sub Tabs.Divider": "6188b01fa98cbbdc4dc0826efa98588756f251a2",
-      "Colors.Branded Ramps.LM.Web.Header.Background": "22e6c72b7b9d8fe2f656c86e870e189a4b028401",
       "Colors.Branded Ramps.DM.Web.Header.Background": "322d56b61fc00d36d651ea2d8a28cbc061869385"
     },
     "group": "Brand"
@@ -755,6 +755,7 @@
       "Colors.Branded Ramps.LM.Web.Upgrade.Background": "6dba783d94e38b51701fafa0bef44a3372d3e86f",
       "Colors.Branded Ramps.LM.Web.Upgrade.Tab selection line": "8cb2053b4dc2961e2d4eb686a6dfe1971129712f",
       "Colors.Branded Ramps.LM.Web.Upgrade.Text Highlight": "c067c0e7d13a2e078914cfc1c105a0e151d6e169",
+      "Colors.Branded Ramps.LM.Web.Header.Background": "22e6c72b7b9d8fe2f656c86e870e189a4b028401",
       "Colors.Branded Ramps.DM.Elements.Folders": "4e1789930b5f17636f8801e279a317e715c68273",
       "Colors.Branded Ramps.DM.Elements.Logo": "662d64a901244f6433ada9a54be26982b5e4a4ed",
       "Colors.Branded Ramps.DM.Elements.Primary Button.Fill Default": "06881d9078c1275a51b388dc527c7cbee3c4bc01",
@@ -814,7 +815,6 @@
       "Colors.Branded Ramps.DM.Mobile.Navigation.iOS.Sub Tabs.Fill Tab Button Pressed": "2868ab2820c734f06ff85b4e75f28c471c89392b",
       "Colors.Branded Ramps.DM.Mobile.Navigation.iOS.Sub Tabs.Background": "3a9ae28d7b4942927cad0afec33d218a73fc3d63",
       "Colors.Branded Ramps.DM.Mobile.Navigation.iOS.Sub Tabs.Divider": "6188b01fa98cbbdc4dc0826efa98588756f251a2",
-      "Colors.Branded Ramps.LM.Web.Header.Background": "22e6c72b7b9d8fe2f656c86e870e189a4b028401",
       "Colors.Branded Ramps.DM.Web.Header.Background": "322d56b61fc00d36d651ea2d8a28cbc061869385"
     },
     "group": "Brand"
@@ -969,6 +969,7 @@
       "Colors.Branded Ramps.LM.Web.Upgrade.Background": "6dba783d94e38b51701fafa0bef44a3372d3e86f",
       "Colors.Branded Ramps.LM.Web.Upgrade.Tab selection line": "8cb2053b4dc2961e2d4eb686a6dfe1971129712f",
       "Colors.Branded Ramps.LM.Web.Upgrade.Text Highlight": "c067c0e7d13a2e078914cfc1c105a0e151d6e169",
+      "Colors.Branded Ramps.LM.Web.Header.Background": "22e6c72b7b9d8fe2f656c86e870e189a4b028401",
       "Colors.Branded Ramps.DM.Elements.Folders": "4e1789930b5f17636f8801e279a317e715c68273",
       "Colors.Branded Ramps.DM.Elements.Logo": "662d64a901244f6433ada9a54be26982b5e4a4ed",
       "Colors.Branded Ramps.DM.Elements.Primary Button.Fill Default": "06881d9078c1275a51b388dc527c7cbee3c4bc01",
@@ -1028,7 +1029,6 @@
       "Colors.Branded Ramps.DM.Mobile.Navigation.iOS.Sub Tabs.Fill Tab Button Pressed": "2868ab2820c734f06ff85b4e75f28c471c89392b",
       "Colors.Branded Ramps.DM.Mobile.Navigation.iOS.Sub Tabs.Background": "3a9ae28d7b4942927cad0afec33d218a73fc3d63",
       "Colors.Branded Ramps.DM.Mobile.Navigation.iOS.Sub Tabs.Divider": "6188b01fa98cbbdc4dc0826efa98588756f251a2",
-      "Colors.Branded Ramps.LM.Web.Header.Background": "22e6c72b7b9d8fe2f656c86e870e189a4b028401",
       "Colors.Branded Ramps.DM.Web.Header.Background": "322d56b61fc00d36d651ea2d8a28cbc061869385"
     },
     "group": "Brand"
@@ -1183,6 +1183,7 @@
       "Colors.Branded Ramps.LM.Web.Upgrade.Background": "6dba783d94e38b51701fafa0bef44a3372d3e86f",
       "Colors.Branded Ramps.LM.Web.Upgrade.Tab selection line": "8cb2053b4dc2961e2d4eb686a6dfe1971129712f",
       "Colors.Branded Ramps.LM.Web.Upgrade.Text Highlight": "c067c0e7d13a2e078914cfc1c105a0e151d6e169",
+      "Colors.Branded Ramps.LM.Web.Header.Background": "22e6c72b7b9d8fe2f656c86e870e189a4b028401",
       "Colors.Branded Ramps.DM.Elements.Folders": "4e1789930b5f17636f8801e279a317e715c68273",
       "Colors.Branded Ramps.DM.Elements.Logo": "662d64a901244f6433ada9a54be26982b5e4a4ed",
       "Colors.Branded Ramps.DM.Elements.Primary Button.Fill Default": "06881d9078c1275a51b388dc527c7cbee3c4bc01",
@@ -1242,7 +1243,6 @@
       "Colors.Branded Ramps.DM.Mobile.Navigation.iOS.Sub Tabs.Fill Tab Button Pressed": "2868ab2820c734f06ff85b4e75f28c471c89392b",
       "Colors.Branded Ramps.DM.Mobile.Navigation.iOS.Sub Tabs.Background": "3a9ae28d7b4942927cad0afec33d218a73fc3d63",
       "Colors.Branded Ramps.DM.Mobile.Navigation.iOS.Sub Tabs.Divider": "6188b01fa98cbbdc4dc0826efa98588756f251a2",
-      "Colors.Branded Ramps.LM.Web.Header.Background": "22e6c72b7b9d8fe2f656c86e870e189a4b028401",
       "Colors.Branded Ramps.DM.Web.Header.Background": "322d56b61fc00d36d651ea2d8a28cbc061869385"
     },
     "group": "Brand"
