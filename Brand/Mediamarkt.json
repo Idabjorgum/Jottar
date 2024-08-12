@@ -1020,10 +1020,9 @@
                 "description": ""
               },
               "Badge Default": {
-                "value": "{Colors.System Ramps.Foreground Greys.Black}",
+                "value": "{Colors.System Ramps.Background Blacks.Black 3}",
                 "type": "color",
-                "parent": "Brand/Mediamarkt",
-                "description": ""
+                "parent": "Brand/Mediamarkt"
               },
               "Badge Hover": {
                 "value": "{Colors.System Ramps.Foreground Greys.Grey 9}",
