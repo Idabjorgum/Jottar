@@ -742,15 +742,15 @@
               "type": "color"
             },
             "Background right": {
-              "value": "#F0F1E8",
+              "value": "#F3F2F8",
               "type": "color"
             },
             "Background logo icon": {
-              "value": "#F0F1E8",
+              "value": "#F3F2F8",
               "type": "color"
             },
             "Subtext summary": {
-              "value": "#6A6D55",
+              "value": "#1F183A",
               "type": "color"
             },
             "Radio button": {
@@ -758,19 +758,19 @@
               "type": "color"
             },
             "Radio button background": {
-              "value": "{Colors.Branded Ramps.LM.Elements.Logo}",
+              "value": "#F3F2F8",
               "type": "color"
             },
             "Radio button background hover": {
-              "value": "{Colors.System Ramps.Background Whites.White 2}",
+              "value": "#ffffff",
               "type": "color"
             },
             "Radio button stroke hover": {
-              "value": "{Colors.Branded Ramps.LM.Elements.Logo}",
+              "value": "{Foreground.Grey 4}",
               "type": "color"
             },
             "Divider": {
-              "value": "#6A6D54",
+              "value": "#cabbfb",
               "type": "color"
             },
             "Link": {
@@ -779,15 +779,15 @@
             },
             "CTA": {
               "Fill Default": {
-                "value": "#C86A28",
+                "value": "#744ff6",
                 "type": "color"
               },
               "Fill Hover": {
-                "value": "#bd6627",
+                "value": "#6A45EB",
                 "type": "color"
               },
               "Fill Pressed": {
-                "value": "#ad5e26",
+                "value": "#603BE1",
                 "type": "color"
               },
               "Text Default": {
@@ -803,15 +803,15 @@
                 "type": "color"
               },
               "Outline Default": {
-                "value": "#C86A28",
+                "value": "#744ff6",
                 "type": "color"
               },
               "Outline Hover": {
-                "value": "#bd6627",
+                "value": "#6A45EB",
                 "type": "color"
               },
               "Outline Pressed": {
-                "value": "#ad5e26",
+                "value": "#603BE1",
                 "type": "color"
               }
             }
