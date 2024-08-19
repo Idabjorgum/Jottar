@@ -852,6 +852,10 @@
             "Background": {
               "value": "#DF0000",
               "type": "color"
+            },
+            "Foreground": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
+              "type": "color"
             }
           }
         }
@@ -1234,6 +1238,10 @@
           "Header": {
             "Background": {
               "value": "#DF0000",
+              "type": "color"
+            },
+            "Foreground": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
               "type": "color"
             }
           }

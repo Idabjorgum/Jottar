@@ -922,7 +922,7 @@
         "type": "color"
       },
       "Foreground": {
-        "value": "{Foreground.Primary}",
+        "value": "{Colors.Branded Ramps.DM.Web.Header.Foreground}",
         "type": "color"
       }
     }

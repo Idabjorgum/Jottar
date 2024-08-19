@@ -981,7 +981,7 @@
         "type": "color"
       },
       "Foreground": {
-        "value": "{Foreground.Primary}",
+        "value": "{Colors.Branded Ramps.LM.Web.Header.Foreground}",
         "type": "color"
       }
     }
