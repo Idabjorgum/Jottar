@@ -766,7 +766,7 @@
               "type": "color"
             },
             "Radio button stroke hover": {
-              "value": "{Foreground.Grey 4}",
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 6}",
               "type": "color"
             },
             "Divider": {
