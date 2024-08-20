@@ -876,6 +876,14 @@
         "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Divider}",
         "type": "color"
       },
+      "Strong password": {
+        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Strong password}",
+        "type": "color"
+      },
+      "Password box": {
+        "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Password box}",
+        "type": "color"
+      },
       "Link": {
         "value": "{Colors.Branded Ramps.LM.Website.Paid Signup custom.Link}",
         "type": "color"

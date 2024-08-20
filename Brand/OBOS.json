@@ -515,6 +515,14 @@
                 "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
                 "type": "color"
               }
+            },
+            "Strong password": {
+              "value": "{Colors.System Ramps.Greens.Green 300}",
+              "type": "color"
+            },
+            "Password box": {
+              "value": "{Background.Grey 3}",
+              "type": "color"
             }
           }
         },

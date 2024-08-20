@@ -773,6 +773,14 @@
               "value": "#cabbfb",
               "type": "color"
             },
+            "Strong password": {
+              "value": "{Colors.System Ramps.Greens.Green 300}",
+              "type": "color"
+            },
+            "Password box": {
+              "value": "{Background.Grey 3}",
+              "type": "color"
+            },
             "Link": {
               "value": "#C86A28",
               "type": "color"
