@@ -778,7 +778,7 @@
               "type": "color"
             },
             "Password box": {
-              "value": "{Background.Grey 3}",
+              "value": "#F0F2EE",
               "type": "color"
             },
             "Link": {
