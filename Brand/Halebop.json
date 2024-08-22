@@ -426,6 +426,32 @@
             }
           }
         },
+        "Web": {
+          "Upgrade": {
+            "Background": {
+              "value": "{Colors.System Ramps.Background Whites.White 3}",
+              "type": "color"
+            },
+            "Tab selection line": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+              "type": "color"
+            },
+            "Text Highlight": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+              "type": "color"
+            }
+          },
+          "Header": {
+            "Background": {
+              "value": "#9EDCDC",
+              "type": "color"
+            },
+            "Foreground": {
+              "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
+              "type": "color"
+            }
+          }
+        },
         "Website": {
           "Paid Signup custom": {
             "Background left": {
@@ -462,6 +488,14 @@
             },
             "Divider": {
               "value": "{Colors.System Ramps.Foreground Greys.Grey 2}",
+              "type": "color"
+            },
+            "Strong password": {
+              "value": "{Colors.System Ramps.Greens.Green 300}",
+              "type": "color"
+            },
+            "Password box": {
+              "value": "{Colors.System Ramps.Background Whites.White 4}",
               "type": "color"
             },
             "Link": {
@@ -513,40 +547,6 @@
                 "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
                 "type": "color"
               }
-            },
-            "Strong password": {
-              "value": "{Colors.System Ramps.Greens.Green 300}",
-              "type": "color"
-            },
-            "Password box": {
-              "value": "{Background.Grey 3}",
-              "type": "color"
-            }
-          }
-        },
-        "Web": {
-          "Upgrade": {
-            "Background": {
-              "value": "{Colors.System Ramps.Background Whites.White 3}",
-              "type": "color"
-            },
-            "Tab selection line": {
-              "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
-              "type": "color"
-            },
-            "Text Highlight": {
-              "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
-              "type": "color"
-            }
-          },
-          "Header": {
-            "Background": {
-              "value": "#9EDCDC",
-              "type": "color"
-            },
-            "Foreground": {
-              "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
-              "type": "color"
             }
           }
         }
