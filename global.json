@@ -1394,7 +1394,7 @@
       },
       "Small long": {
         "value": {
-          "fontFamily": "{fontFamilies.inter}",
+          "fontFamily": "{fontFamilies.miletus-grotesk}",
           "fontWeight": "{fontWeights.inter-0}",
           "lineHeight": "{lineHeights.5}",
           "fontSize": "{fontSize.0}",
