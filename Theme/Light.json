@@ -392,14 +392,8 @@
       }
     },
     "Text link": {
-      "Default blue": {
+      "Default": {
         "value": "{Colors.System Ramps.Blues.Blue 600}",
-        "type": "color",
-        "parent": "Theme/Light mode",
-        "description": ""
-      },
-      "Visited": {
-        "value": "#5B7792",
         "type": "color",
         "parent": "Theme/Light mode"
       }
@@ -587,50 +581,6 @@
   },
   "Mobile": {
     "Navigation": {
-      "Header": {
-        "Background": {
-          "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.Header.Background}",
-          "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
-        },
-        "Text": {
-          "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.Header.Text}",
-          "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
-        },
-        "Icon": {
-          "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.Header.Icon}",
-          "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
-        },
-        "Outline Badge": {
-          "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.Header.Outline badge}",
-          "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
-        },
-        "Fill Badge": {
-          "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.Header.Fill badge}",
-          "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
-        },
-        "Text Badge": {
-          "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.Header.Text Badge}",
-          "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
-        },
-        "Text Native": {
-          "value": "{Colors.Branded Ramps.LM.Mobile.Navigation.Header.Text Native}",
-          "type": "color",
-          "parent": "Theme/Light mode",
-          "description": ""
-        }
-      },
       "Android": {
         "Sub Tabs": {
           "Foreground Default": {
@@ -921,46 +871,6 @@
         }
       }
     }
-  },
-  "size14c": {
-    "value": "14",
-    "type": "fontSizes"
-  },
-  "size20": {
-    "value": "20",
-    "type": "fontSizes"
-  },
-  "size64-copy": {
-    "value": "64",
-    "type": "fontSizes"
-  },
-  "size64": {
-    "value": "64",
-    "type": "fontSizes"
-  },
-  "size48": {
-    "value": "48",
-    "type": "fontSizes"
-  },
-  "size48-copy": {
-    "value": "48",
-    "type": "fontSizes"
-  },
-  "size32-copy": {
-    "value": "32",
-    "type": "fontSizes"
-  },
-  "size32": {
-    "value": "32",
-    "type": "fontSizes"
-  },
-  "size28-copy": {
-    "value": "28",
-    "type": "fontSizes"
-  },
-  "size28": {
-    "value": "28",
-    "type": "fontSizes"
   },
   "Web": {
     "Upgrade": {

@@ -560,50 +560,6 @@
                 }
               }
             },
-            "Header": {
-              "Text": {
-                "value": "{Colors.System Ramps.Foreground Greys.White}",
-                "type": "color",
-                "parent": "Brand/Telia",
-                "description": ""
-              },
-              "Icon": {
-                "value": "{Colors.System Ramps.Foreground Greys.White}",
-                "type": "color",
-                "parent": "Brand/Telia",
-                "description": ""
-              },
-              "Background": {
-                "value": "#990ae3",
-                "type": "color",
-                "parent": "Brand/Telia",
-                "description": ""
-              },
-              "Outline badge": {
-                "value": "{Colors.System Ramps.Foreground Greys.White}",
-                "type": "color",
-                "parent": "Brand/Telia",
-                "description": ""
-              },
-              "Fill badge": {
-                "value": "{Colors.System Ramps.Foreground Greys.White}",
-                "type": "color",
-                "parent": "Brand/Telia",
-                "description": ""
-              },
-              "Text Badge": {
-                "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
-                "type": "color",
-                "parent": "Brand/Telia",
-                "description": ""
-              },
-              "Text Native": {
-                "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
-                "type": "color",
-                "parent": "Brand/Telia",
-                "description": ""
-              }
-            },
             "iOS": {
               "Bottom Bar": {
                 "Background": {

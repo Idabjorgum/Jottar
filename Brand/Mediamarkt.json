@@ -560,50 +560,6 @@
                 }
               }
             },
-            "Header": {
-              "Text": {
-                "value": "{Colors.System Ramps.Foreground Greys.White}",
-                "type": "color",
-                "parent": "Brand/Mediamarkt",
-                "description": ""
-              },
-              "Icon": {
-                "value": "{Colors.System Ramps.Foreground Greys.White}",
-                "type": "color",
-                "parent": "Brand/Mediamarkt",
-                "description": ""
-              },
-              "Background": {
-                "value": "#df0000",
-                "type": "color",
-                "parent": "Brand/Mediamarkt",
-                "description": ""
-              },
-              "Outline badge": {
-                "value": "{Colors.System Ramps.Foreground Greys.White}",
-                "type": "color",
-                "parent": "Brand/Mediamarkt",
-                "description": ""
-              },
-              "Fill badge": {
-                "value": "{Colors.System Ramps.Foreground Greys.White}",
-                "type": "color",
-                "parent": "Brand/Mediamarkt",
-                "description": ""
-              },
-              "Text Badge": {
-                "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
-                "type": "color",
-                "parent": "Brand/Mediamarkt",
-                "description": ""
-              },
-              "Text Native": {
-                "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
-                "type": "color",
-                "parent": "Brand/Mediamarkt",
-                "description": ""
-              }
-            },
             "iOS": {
               "Bottom Bar": {
                 "Background": {

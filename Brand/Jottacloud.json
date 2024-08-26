@@ -551,50 +551,6 @@
                 }
               }
             },
-            "Header": {
-              "Text": {
-                "value": "{Colors.System Ramps.Foreground Greys.White}",
-                "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
-              },
-              "Icon": {
-                "value": "{Colors.System Ramps.Foreground Greys.White}",
-                "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
-              },
-              "Background": {
-                "value": "#7d5fe6",
-                "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
-              },
-              "Outline badge": {
-                "value": "{Colors.System Ramps.Foreground Greys.White}",
-                "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
-              },
-              "Fill badge": {
-                "value": "{Colors.System Ramps.Foreground Greys.White}",
-                "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
-              },
-              "Text Badge": {
-                "value": "{Colors.System Ramps.Foreground Greys.Grey 10}",
-                "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
-              },
-              "Text Native": {
-                "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
-                "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
-              }
-            },
             "iOS": {
               "Bottom Bar": {
                 "Background": {
@@ -687,6 +643,11 @@
             "type": "color",
             "parent": "Brand/Jottacloud",
             "description": ""
+          },
+          "Scrubber": {
+            "value": "#7d5fe6",
+            "type": "color",
+            "parent": "Brand/Jottacloud"
           },
           "Primary Button": {
             "Fill Default": {
@@ -1050,50 +1011,6 @@
         },
         "Mobile": {
           "Navigation": {
-            "Header": {
-              "Text": {
-                "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
-                "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
-              },
-              "Icon": {
-                "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
-                "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
-              },
-              "Outline badge": {
-                "value": "{Colors.System Ramps.Foreground Greys.Grey 6}",
-                "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
-              },
-              "Fill badge": {
-                "value": "{Colors.System Ramps.Foreground Greys.Grey 6}",
-                "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
-              },
-              "Background": {
-                "value": "{Colors.System Ramps.Background Blacks.Black 4}",
-                "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
-              },
-              "Text Badge": {
-                "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
-                "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
-              },
-              "Text Native": {
-                "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
-                "type": "color",
-                "parent": "Brand/Jottacloud",
-                "description": ""
-              }
-            },
             "Android": {
               "Bottom Bar": {
                 "Text Default": {

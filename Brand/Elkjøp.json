@@ -560,50 +560,6 @@
                 }
               }
             },
-            "Header": {
-              "Text": {
-                "value": "{Colors.System Ramps.Foreground Greys.White}",
-                "type": "color",
-                "parent": "Brand/Elkjop",
-                "description": ""
-              },
-              "Icon": {
-                "value": "{Colors.System Ramps.Foreground Greys.White}",
-                "type": "color",
-                "parent": "Brand/Elkjop",
-                "description": ""
-              },
-              "Background": {
-                "value": "#041752",
-                "type": "color",
-                "parent": "Brand/Elkjop",
-                "description": ""
-              },
-              "Outline badge": {
-                "value": "#78bf26",
-                "type": "color",
-                "parent": "Brand/Elkjop",
-                "description": ""
-              },
-              "Fill badge": {
-                "value": "#78bf26",
-                "type": "color",
-                "parent": "Brand/Elkjop",
-                "description": ""
-              },
-              "Text Badge": {
-                "value": "#041752",
-                "type": "color",
-                "parent": "Brand/Elkjop",
-                "description": ""
-              },
-              "Text Native": {
-                "value": "{Colors.System Ramps.Foreground Greys.Grey 1}",
-                "type": "color",
-                "parent": "Brand/Elkjop",
-                "description": ""
-              }
-            },
             "iOS": {
               "Bottom Bar": {
                 "Background": {
