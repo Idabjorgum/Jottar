@@ -398,16 +398,10 @@
         "parent": "Theme/Light mode",
         "description": ""
       },
-      "Pressed": {
-        "value": "{Colors.System Ramps.Blues.Blue 700}",
+      "Visited": {
+        "value": "#5B7792",
         "type": "color",
         "parent": "Theme/Light mode"
-      },
-      "On hover blue": {
-        "value": "{Colors.System Ramps.Blues.Blue 400}",
-        "type": "color",
-        "parent": "Theme/Light mode",
-        "description": ""
       }
     },
     "Tooltips": {

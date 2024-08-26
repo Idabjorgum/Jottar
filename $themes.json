@@ -123,8 +123,6 @@
       "Interactive Content.Lists.Surface While Active": "6f295352b24184150865dc3446c0139cb9525d34",
       "Interactive Content.Lists.Foreground While active": "e5e732cb4de76d8c09e5f265ba0e0276a1d50816",
       "Interactive Content.Text link.Default blue": "935a198e6ecb2af0ac41e2056c9b1a51ab662266",
-      "Interactive Content.Text link.Pressed": "ca958068070548839bb9ab25df6c498fdf5df077",
-      "Interactive Content.Text link.On hover blue": "ae9dbf5b1513896a5701073b7bacf92256f4ebfa",
       "Interactive Content.Tooltips.Foreground": "59e2dc523f43a76fa195b91697bb829561272e42",
       "Interactive Content.Tooltips.Background": "e06b902e7d37b8a114b6a372238a057a11e1a797",
       "Interactive Content.Tooltips.Icon": "de92b8a2af21f74820d3b9571d54f5b9ab9d2c95",
@@ -214,7 +212,8 @@
       "Web.Upgrade.Tab selection line": "6ecf0a32b82d3e64a1f384c166c7f31e1a87cfce",
       "Web.Upgrade.Text highlight": "e759d4bc35674fae2600b2d468923b9d5bb6c4a0",
       "Web.Header.Background": "a4661d2dc166290aa779b5ed792c4274ade8ed4e",
-      "Web.Header.Foreground": "a032b97924408568dec12a5c66980380f1aea067"
+      "Web.Header.Foreground": "a032b97924408568dec12a5c66980380f1aea067",
+      "Interactive Content.Text link.Visited": "ca958068070548839bb9ab25df6c498fdf5df077"
     },
     "group": "Theme"
   },
@@ -254,8 +253,6 @@
       "Interactive Content.Lists.Surface While Active": "6f295352b24184150865dc3446c0139cb9525d34",
       "Interactive Content.Lists.Foreground While active": "e5e732cb4de76d8c09e5f265ba0e0276a1d50816",
       "Interactive Content.Text link.Default blue": "935a198e6ecb2af0ac41e2056c9b1a51ab662266",
-      "Interactive Content.Text link.Pressed": "ca958068070548839bb9ab25df6c498fdf5df077",
-      "Interactive Content.Text link.On hover blue": "ae9dbf5b1513896a5701073b7bacf92256f4ebfa",
       "Interactive Content.Tooltips.Foreground": "59e2dc523f43a76fa195b91697bb829561272e42",
       "Interactive Content.Tooltips.Background": "e06b902e7d37b8a114b6a372238a057a11e1a797",
       "Interactive Content.Tooltips.Icon": "de92b8a2af21f74820d3b9571d54f5b9ab9d2c95",
@@ -387,7 +384,8 @@
       "Website.Paid Signup custom.CTA.Outline Hover": "194bd511eb4bb7821f7e8dc58bf0c29b13353791",
       "Website.Paid Signup custom.CTA.Outline Pressed": "e7f66a93c1e6992100d0eb2ff34a8ad311f9b432",
       "Web.Header.Background": "a4661d2dc166290aa779b5ed792c4274ade8ed4e",
-      "Web.Header.Foreground": "a032b97924408568dec12a5c66980380f1aea067"
+      "Web.Header.Foreground": "a032b97924408568dec12a5c66980380f1aea067",
+      "Interactive Content.Text link.Visited": "ca958068070548839bb9ab25df6c498fdf5df077"
     },
     "group": "Theme"
   },
